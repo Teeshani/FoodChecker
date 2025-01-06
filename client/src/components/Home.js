@@ -3,6 +3,9 @@ import Navbar from './Navbar';
 import AboutImg from "../assets/images/about-img.jpg";
 import { review } from "../Data";
 import qouteImg from "../assets/images/quote-img.png";
+import mail_icon from "../assets/images/mail-icon.png";
+import phone_icon from "../assets/images/phone-icon.png";
+import location_icon from "../assets/images/location-icon.png";
 import Footer from "./Footer";
 
 const Home = () => {
@@ -26,7 +29,7 @@ const Home = () => {
 
   <section className="about">
   <h1 className="heading">
-          <span>about</span> us
+          <span>who</span> we <span> are</span>
   </h1>
   <div className="row">
           <div className="image">
@@ -34,13 +37,12 @@ const Home = () => {
           </div>
           <div className="content">
           <h3>Ensuring Safe Travels with Trusted Compliance Checks</h3>
-          <p>Welcome to the Food Compliance Checker, We are here to assist Sri Lankan travelers in ensuring their 
-             food items comply with customs regulations. Our AI-powered platform provides instant compliance checks 
-             for items like spices, sweets, and packaged goods, making your travel hassle-free.
+          <p>Welcome to the Food Compliance Checker, We are an innovative team dedicated to simplifying
+             international travel for Sri Lankan travelers. Our platform leverages cutting-edge AI technology 
+             to ensure the food items you carry comply with customs regulations. Whether it's spices, sweets, or 
+             packaged goods, we aim to provide a seamless, hassle-free experience for every traveler.
           </p>
-          <p>By simplifying the process, we aim to make your journey safer, smoother, and stress-free. Thank you for
-             choosing us as your trusted travel companion!
-          </p>
+          
           <a href="#" className="btn">
               Learn more
             </a>
@@ -74,9 +76,9 @@ const Home = () => {
     </div>
     </section>
 
-    <section className="contact" id="contact">
+    <section className="contact">
     <h1 class="heading">
-          <span>contact</span> us
+    <span>get</span> in <span> touch</span>
         </h1>
         <div class="row">
         <iframe
@@ -86,20 +88,15 @@ const Home = () => {
             loading="lazy"
           ></iframe>
           <form>
-          <h3>get in touch</h3>
-          <div class="inputBox">
-              <span class="fas fa-user"></span>
-              <input type="text" placeholder="name" />
-            </div>
-          <div class="inputBox">
-              <span class="fas fa-envelope"></span>
-              <input type="email" placeholder="email" />
-            </div>
-          <div class="inputBox">
-              <span class="fas fa-phone"></span>
-              <input type="number" placeholder="number" />
-            </div>
-          <input type="submit" value="contact now" class="btn" />
+          <h3>send us a message</h3>
+          <p>We’re here to help! Whether you have questions, feedback, or need assistance, feel free to reach out to 
+         us. Your journey matters to us, and we’re committed to making it smooth and hassle-free. Get in touch 
+         today!</p>
+      <ul>
+        <li><img src={mail_icon} alt="" />malishateeshani@gmail.com</li>
+        <li><img src={phone_icon} alt="" />0764057443</li>
+        <li><img src={location_icon} alt="" />59/8F, School Lane, Nawala, Rajagiriya</li>
+      </ul>
           </form>
         </div>
     </section>

@@ -33,7 +33,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-  background: #ccc;
+  background: #010103;
   overflow-x: hidden;
 }
 
@@ -282,9 +282,29 @@ section {
 }
 
 .contact .row form h3 {
-  text-transform: uppercase;
   font-size: 3.5rem;
   color: #fff;
+}
+
+.contact .row form p {
+  font-size: 1.6rem;
+  color: #ccc;
+  padding: 1rem 0;
+  line-height: 1.8;
+  margin-top: 2rem;
+}
+
+.contact .row form ul li {
+  font-size: 1.6rem;
+  color: #ccc;
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.contact .row form ul li img {
+  width: 25px;
+  margin-right: 10px;
 }
 
 .contact .row form .inputBox {

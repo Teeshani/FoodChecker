@@ -1,0 +1,11 @@
+.con {
+    margin: 80px;
+    max-width: 90%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.con-col {
+    flex-basis: 48%;
+}

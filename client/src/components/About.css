@@ -1,3 +1,30 @@
+.ab-container {
+    margin: 4rem 6rem;
 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
   
-  
+.ab-container h1{
+    padding-bottom: 1rem;
+    color: #eee;
+    font-size: 3rem;
+}
+
+.ab-container p{
+    padding-bottom: 2rem;
+    color: #eee;
+    font-size: 1.7rem;
+    line-height: 2;
+    margin-top: 2rem;
+}
+
+@media screen and (max-width: 850px) {
+    .ab-container{
+        margin: 4rem 2rem;
+    }
+}
