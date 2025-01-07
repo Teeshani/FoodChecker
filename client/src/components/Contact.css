@@ -1,11 +1,49 @@
-.con {
-    margin: 80px;
-    max-width: 90%;
+.contact .row {
     display: flex;
-    align-content: center;
-    justify-content: space-between;
-}
+    background: #13131a;
+    flex-wrap: wrap;
+    gap: 1rem;
+     
+  }
 
-.con-col {
-    flex-basis: 48%;
+.contact .row form {
+    flex: 1 1 45rem;
+    padding: 5rem 2rem;
+    text-align: center;
+  }
+  
+.contact .row form h3 {
+    font-size: 3.5rem;
+    color: #fff;
+  }
+  
+.contact .row form .inputBox {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background: #13131a;
+    border: 0.2rem solid #ffc107;
+  }
+  
+.contact .row form .inputBox span {
+    color: #fff;
+    font-size: 2rem;
+    padding-left: 2rem;
+  }
+  
+.contact .row form .inputBox input {
+    width: 100%;
+    padding: 2rem;
+    font-size: 1.7rem;
+    color: #fff;
+    text-transform: none;
+    background: none;
+  }
+
+.contact .row span {
+    display: block;
+    margin: 20px 0;
+    color: #fff;
+    font-size: 2rem;
 }

@@ -300,35 +300,12 @@ section {
   display: flex;
   align-items: center;
   margin: 20px 0px;
+  text-transform: lowercase;
 }
 
 .contact .row form ul li img {
   width: 25px;
   margin-right: 10px;
-}
-
-.contact .row form .inputBox {
-  display: flex;
-  align-items: center;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  background: #13131a;
-  border: 0.2rem solid #ffc107;
-}
-
-.contact .row form .inputBox span {
-  color: #fff;
-  font-size: 2rem;
-  padding-left: 2rem;
-}
-
-.contact .row form .inputBox input {
-  width: 100%;
-  padding: 2rem;
-  font-size: 1.7rem;
-  color: #fff;
-  text-transform: none;
-  background: none;
 }
 
 .footer {
