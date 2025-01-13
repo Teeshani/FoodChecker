@@ -1,3 +1,11 @@
+.topic h1 {
+    padding-bottom: 1rem;
+    color: #eee;
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 10rem;
+}
+
 .testimonials {
     margin: 80px auto;
     padding: 0 80px;

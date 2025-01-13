@@ -58,7 +58,10 @@ const Review = () => {
     <>
       <Navbar />
       <Hero cName="hero-mid" heroImg={ReviewImg} title="Reviews" />
-
+      <div className="topic">
+      <h1>What Our Travelers Say</h1>
+      </div>
+      
       <div className="testimonials">
         <img src={back_icon} alt="Back" className="back-btn" onClick={slideBackward} />
         <div className="slider" ref={sliderRef}>
