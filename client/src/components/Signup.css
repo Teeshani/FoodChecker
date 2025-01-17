@@ -27,7 +27,11 @@ label {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;  /* Ensures centering of content */
+  height: 100vh; 
+  background-image: url(../assets/images/signup-img.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .signup-content {
@@ -41,6 +45,8 @@ label {
 
 .signup-content > h1 {
   margin-bottom: 20px;
+  text-align: center;
+  font-size: 30px;
 }
 
 .signup-content > form {
@@ -77,4 +83,21 @@ button {
   padding: 10px;
   cursor: pointer;
   margin: 10px 0;
+}
+
+.signup-footer {
+  font-size: 16px; 
+  color: #333; 
+  margin-top: 10px; 
+  text-align: center; 
+}
+
+.signup-footer .login-link {
+  color: #333; 
+  text-decoration: none; 
+  font-weight: bold; 
+}
+
+.signup-footer .login-link:hover {
+  text-decoration: underline; 
 }

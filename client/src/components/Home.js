@@ -6,6 +6,7 @@ import qouteImg from "../assets/images/quote-img.png";
 import mail_icon from "../assets/images/mail-icon.png";
 import phone_icon from "../assets/images/phone-icon.png";
 import location_icon from "../assets/images/location-icon.png";
+import { Link } from 'react-router-dom';
 import Footer from "./Footer";
 
 const Home = () => {
@@ -20,9 +21,9 @@ const Home = () => {
   <p>
   Your trusted AI-powered assistant to help Sri Lankan travelers ensure their food items comply with customs regulations. With our easy-to-use platform, you can quickly verify the compliance of popular Sri Lankan food items and travel hassle-free. Start exploring today to make your journey smoother and stress-free!
   </p>
-  <a href="#" className="btn">
+  <Link to="/signup" className="btn">
   Check Compliance Now
-  </a>
+  </Link>
   </div>
 
   </section>
@@ -43,9 +44,9 @@ const Home = () => {
              packaged goods, we aim to provide a seamless, hassle-free experience for every traveler.
           </p>
           
-          <a href="#" className="btn">
-              Learn more
-            </a>
+          <Link to="/about" className="btn">
+          Learn more
+          </Link>
           </div>
   </div>
   </section> 

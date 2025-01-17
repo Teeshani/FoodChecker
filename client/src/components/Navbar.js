@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
 import Logo from "../assets/images/logo.jpg";
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   const navbarRef = useRef();
@@ -29,9 +30,9 @@ const searchHandler = () => {
 
         </nav>
 
-        <a href="#" className="btn">
-              Login
-            </a>
+        <Link to="/login" className="btn">
+          Login
+        </Link>
         
         <div className="icons">
         <div className="fas fa-search" id="search-btn" onClick={searchHandler}></div>

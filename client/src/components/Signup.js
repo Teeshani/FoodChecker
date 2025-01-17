@@ -96,7 +96,10 @@ function Signup() {
           </div>
 
           <button type='submit'>Signup</button>
-          <span>Already have an account? <Link to="/login">Login</Link></span>
+          <span className="signup-footer">
+          Already have an account? <Link to="/login" className="login-link">Login</Link>
+          </span>
+
         </form>
         <ToastContainer />
       </div>

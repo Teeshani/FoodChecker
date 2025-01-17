@@ -56,8 +56,8 @@ function Login() {
 
 }
   return (
-    <div className='signup-body'>  {/* Add signup-body wrapper */}
-      <div className='signup-content'>
+    <div className='login-body'>  
+      <div className='login-content'>
         <h1>Login</h1>
         <form onSubmit={handleLogin}>
           
@@ -84,7 +84,10 @@ function Login() {
           </div>
 
           <button type='submit'>Login</button>
-          <span>Don't have an account? <Link to="/signup">Signup</Link></span>
+          <span className="login-footer">
+          Does't have an account? <Link to="/signup" className="login-link">Signup</Link>
+          </span>
+
         </form>
         <ToastContainer />
       </div>

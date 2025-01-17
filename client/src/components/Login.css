@@ -27,7 +27,11 @@ label {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;  /* Ensures centering of content */
+  height: 100vh;  
+  background-image: url(../assets/images/login-img.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .login-content {
@@ -41,6 +45,8 @@ label {
 
 .login-content > h1 {
   margin-bottom: 20px;
+  text-align: center;
+  font-size: 30px;
 }
 
 .login-content > form {
@@ -77,4 +83,21 @@ button {
   padding: 10px;
   cursor: pointer;
   margin: 10px 0;
+}
+
+.login-footer {
+    font-size: 16px; 
+    color: #333; 
+    margin-top: 10px; 
+    text-align: center; 
+}
+  
+  .login-footer .login-link {
+    color: #333; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+  
+  .login-footer .login-link:hover {
+    text-decoration: underline; 
 }
