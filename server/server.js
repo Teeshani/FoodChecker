@@ -2,36 +2,29 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import connectDB from "./config/dbCon.js";
+import AuthRouter from "./Routes/AuthRouter.js";
 
-
-const express = require('express');
-const app = express();
-const bodyParser = require('body-parser');
-const cors = require('cors');
-const AuthRouter = require('./Routes/AuthRouter');
-
-require('dotenv').config();
-require('./Models/db');
 dotenv.config();
 
+const app = express();
 
-connectDB ();
+// Connect to the database
+connectDB();
 
+// Middleware
+app.use(express.json()); // Corrected
+app.use(cors());
+app.use(express.urlencoded({ extended: true }));
+
+// Routes
 app.get('/ping', (req, res) => {
     res.send('PONG');
-})
+});
 
-
-app.use(bodyParser.json());
-app.use(cors());
 app.use('/auth', AuthRouter);
 
-
-app.use(express.urlencoded({ extended: true}));
-app.use(express.json);
-
-
+// Server setup
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
-console.log(`Server is runinng on port ${PORT}`);
+    console.log(`Server is running on port ${PORT}`);
 });
