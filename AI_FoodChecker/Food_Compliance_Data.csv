@@ -1,0 +1,225 @@
+Category,Food Item,Cooking Status,Compliance Status,Special Packing Required,Packing Guidelines,Image URL
+Vegetables,Carrot,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Carrot,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Broccoli,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Broccoli,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Spinach,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Spinach,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Tomato,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Tomato,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Onion,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Onion,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Potato,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Potato,Uncooked,Allowed,No,Potatoes must be free of soil and pests.,packing-images\0012.jpg
+Vegetables,Capsicum,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Capsicum,Uncooked,Restricted,Yes,Capsicum must be in air-tight packages.,packing-images\0006.jpg
+Vegetables,Lettuce,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Lettuce,Uncooked,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Vegetables,Fresh Peppers,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Fresh Peppers,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Dried Mushrooms,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Dried Mushrooms,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Vegetables,Sweet Corn,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Vegetables,Sweet Corn,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Zucchini,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Zucchini,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Vegetables,Cabbage,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Cabbage,Uncooked,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Vegetables,Garlic,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Garlic,Uncooked,Allowed,No,Pack in a ventilated container.,packing-images\0015.jpg
+Vegetables,Chilies,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Chilies,Uncooked,Allowed,No,Pack in an airtight bag.,packing-images\0020.jpg
+Vegetables,Pumpkin,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Pumpkin,Uncooked,Allowed,No,Cut into manageable sizes.,packing-images\0016.jpg
+Vegetables,Leeks,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Leeks,Uncooked,Restricted,Yes,Avoid carrying fresh.,packing-images\0017.jpg
+Vegetables,Cauliflower,Cooked,Allowed,No,Use sturdy containers to prevent damage,packing-images\0002.jpg
+Vegetables,Cauliflower,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Pickles,Cooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,Uncooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Eggplant,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Eggplant,Uncooked,Allowed,No,Use breathable mesh bags to maintain freshness.,packing-images\0011.jpg
+Vegetables,Radish,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Radish,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen.,packing-images\0003.jpg
+Vegetables,Ginger,Cooked,Allowed,No,Pack in airtight containers.,packing-images\0006.jpg
+Vegetables,Ginger,Uncooked,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Okra (Ladies’ Fingers),Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Okra (Ladies’ Fingers),Uncooked,Restricted,Yes,Store in insulated bags with proper cooling.,packing-images\0019.jpg
+Vegetables,Bitter Gourd,Cooked,Allowed,No,Pack in resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Bitter Gourd,Uncooked,Allowed,No,Wrap in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Vegetables,Drumsticks,Cooked,Allowed,No,Use airtight containers to maintain freshness.,packing-images\0006.jpg
+Vegetables,Drumsticks,Uncooked,Allowed,No,Store in perforated plastic containers to prevent spoilage.,packing-images\0002.jpg
+Vegetables,Beetroot,Cooked,Allowed,No,Use resealable bags or food-safe plastic containers.,packing-images\0002.jpg
+Vegetables,Beetroot,Uncooked,Allowed,No,Pack in sturdy containers to avoid crushing.,packing-images\0002.jpg
+Vegetables,Green Beans,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Green Beans,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to maintain freshness.,packing-images\0003.jpg
+Vegetables,Curry Leaves,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Curry Leaves,Uncooked,Allowed,No,Pack in airtight bags to preserve freshness.,packing-images\0020.jpg
+Vegetables,Snake Gourd,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Snake Gourd,Uncooked,Allowed,No,Wrap in damp paper towels for freshness.,packing-images\0021.jpg
+Vegetables,Yam (Kiri Ala),Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Yam (Kiri Ala),Uncooked,Allowed,No,Must be washed and packed free of soil.,packing-images\0012.jpg
+Vegetables,Breadfruit,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0021.jpg
+Vegetables,Breadfruit,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fruits,Apple,Not applicable,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Mango,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fruits,Banana,Not applicable,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fruits,Grapes,Not applicable,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fruits,Orange,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fruits,Papaya,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Pineapple,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Frozen Berries,Not applicable,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fruits,Pomegranates,Not applicable,Restricted,Yes,Not allowed due to biohazard risk.,packing-images\0022.jpg
+Fruits,Watermelon,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fruits,Strawberry,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fruits,Pear,Not applicable,Allowed,No,Pack in breathable mesh bags or sturdy containers.,packing-images\0011.jpg
+Fruits,Guava,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fruits,Dragon Fruit,Not applicable,Allowed,No,Store in perforated plastic containers.,packing-images\0002.jpg
+Fruits,Jackfruit (Fresh),Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Woodapple,Not applicable,Allowed,No,Wrap securely to prevent damage.,packing-images\0023.jpg
+Fruits,Rambutan,Not applicable,Allowed,No,Pack in breathable mesh bags for airflow.,packing-images\0007.jpg
+Fruits,Mangosteen,Not applicable,Restricted,Yes,Use insulated coolers for proper transport.,packing-images\0019.jpg
+Fruits,Star Fruit,Not applicable,Allowed,No,Pack in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Fruits,Jackfruit Seeds,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fruits,Jackfruit Seeds,Uncooked,Restricted,Yes,Requires commercial-grade vacuum-sealed packaging.,packing-images\0005.jpg
+Fruits,Passion Fruit,Not applicable,Allowed,No,Pack in breathable containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Chicken,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Turkey,Cooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Beef,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Beef,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Fish,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Fish,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Pork,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Pork,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Mutton,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Mutton,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Salmon,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Shrimp,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Shrimp,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Tuna,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Tuna,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Crab,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Lamb,Cooked,Restricted,Yes,Store in thermal bags to maintain freshness,packing-images\0004.jpg
+Fish or Meats,Lamb,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fish or Meats,Frozen Fish,Cooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,Uncooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Duck,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Duck,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Anchovies,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Anchovies,Uncooked,Allowed,No,Use insulated coolers with ice packs to keep frozen.,packing-images\0003.jpg
+Fish or Meats,Clams,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Clams,Uncooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fish or Meats,Dried Fish,Cooked,Allowed,No,Use resealable food-grade bags.,packing-images\0001.jpg
+Fish or Meats,Dried Fish,Uncooked,Restricted,Yes,Use airtight containers to avoid odors.,packing-images\0006.jpg
+Fish or Meats,Sardines,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Fish or Meats,Sardines,Uncooked,Restricted,Yes,Store in vacuum-sealed bags with ice packs for transport.,packing-images\0003.jpg
+Fish or Meats,Goat Meat,Cooked,Allowed,No,Use breathable bags or perforated containers for freshness.,packing-images\0024.jpg
+Fish or Meats,Goat Meat,Uncooked,Restricted,Yes,Use vacuum-sealed bags and thermal coolers for transport.,packing-images\0005.jpg
+Fish or Meats,Prawns (Dry),Cooked,Allowed,No,Pack in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Prawns (Dry),Uncooked,Restricted,Yes,Use insulated coolers with ice packs.,packing-images\0003.jpg
+Fish or Meats,Dried Sprats (Hal Messo),Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Dried Sprats (Hal Messo),Uncooked,Allowed,No,Must be in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Cuttlefish,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Cuttlefish,Uncooked,Restricted,Yes,Use insulated coolers with ice packs.,packing-images\0003.jpg
+Fish or Meats,Crayfish,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Crayfish,Uncooked,Restricted,Yes,Use vacuum-sealed packaging and cool storage.,packing-images\0005.jpg
+Fish or Meats,Maldive Fish Chips,Not applicable,Allowed,No,Use airtight containers to prevent odors.,packing-images\0006.jpg
+Grains,Quinoa,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Quinoa,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Grains,Rice,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Rice,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Wheat,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Wheat,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Grains,Oats,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Oats,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Barley,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Barley,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Corn,Cooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,Uncooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Buckwheat,Cooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,Uncooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Pasta,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Pasta,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Millet,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Millet,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Grains,Couscous,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Couscous,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Grains,Lentils,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Lentils,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Buckwheat Flour,Cooked,Restricted,Yes,Must be vacuum-sealed to prevent contamination.,packing-images\0005.jpg
+Grains,Buckwheat Flour,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Rye,Cooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Grains,Rye,Uncooked,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,Uncooked,Allowed,No,Store in sealed bags or containers to maintain quality.,packing-images\0002.jpg
+Grains,Red Rice,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Red Rice,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Roasted Gram,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Roasted Gram,Uncooked,Allowed,No,Must be in airtight containers.,packing-images\0006.jpg
+Grains,Black Gram (Urad Dal),Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Black Gram (Urad Dal),Uncooked,Allowed,No,Must be free from pests and in sealed packages.,packing-images\0026.jpg
+Grains,Cowpeas (Ma Karal),Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Cowpeas (Ma Karal),Uncooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Grains,Fenugreek Seeds,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Fenugreek Seeds,Uncooked,Allowed,No,"Pack in resealable, labeled pouches.",packing-images\0008.jpg
+Snacks,Nuts,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Snacks,Nuts,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Granola Bars,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Cookies,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Snacks,Potato Chips,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Potato Chips,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Trail Mix,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Chocolate,Not applicable,Allowed,No,Chocolates must not contain fresh ingredients.,packing-images\0027.jpg
+Snacks,Crackers,Not applicable,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Snacks,Biscuits,Not applicable,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Snacks,Sunflower Seeds,Not applicable,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Snacks,Pretzels,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Popcorn,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Popcorn,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Snacks,Protein Bars,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Snacks,Dried Fruits,Not applicable,Restricted,Yes,Must be in original sealed packaging.,packing-images\0010.jpg
+Snacks,Rice Crackers,Not applicable,Allowed,No,No special handling required.,packing-images\0013.jpg
+Snacks,Roti,Not applicable,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Snacks,Wafers,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping.,packing-images\0001.jpg
+Snacks,Puffed Rice,Cooked,Allowed,No,Pack in sturdy containers to prevent crushing.,packing-images\0002.jpg
+Snacks,Puffed Rice,Uncooked,Allowed,No,"Must be in airtight, moisture-resistant packaging.",packing-images\0006.jpg
+Snacks,Coconut Sweets,Not applicable,Allowed,No,Use resealable food-grade wrapping to avoid spillage.,packing-images\0001.jpg
+Snacks,Jaggery,Not applicable,Allowed,No,Use vacuum-sealed packaging to maintain freshness.,packing-images\0005.jpg
+Snacks,Palmyrah Jaggery,Not applicable,Allowed,No,Wrap individually and seal in plastic containers.,packing-images\0002.jpg
+Snacks,Kithul Treacle,Not applicable,Allowed,No,Use leak-proof bottles to prevent spills.,packing-images\0028.jpg
+Snacks,Coconut Toffee,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Murukku,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Rulang Aluwa,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Kokis,Not applicable,Allowed,No,Must be kept in sturdy packaging to avoid breaking.,packing-images\0002.jpg
+Snacks,Kalu Dodol,Not applicable,Allowed,No,"Pack in sealed, food-grade wrapping to avoid spills.",packing-images\0001.jpg
+Snacks,Aggala (Jaggery Balls),Not applicable,Allowed,No,Use resealable bags to maintain freshness.,packing-images\0001.jpg
+Snacks,Banana Chips,Not applicable,Allowed,No,Pack in airtight containers to prevent damage.,packing-images\0006.jpg
+Snacks,Dried Mango Strips,Not applicable,Allowed,No,Pack in resealable food-grade bags.,packing-images\0001.jpg
+Snacks,Dried Jackfruit Chips,Not applicable,Allowed,No,Store in sealed bags with oxygen absorbers.,packing-images\0008.jpg
+Snacks,Papadam,Not applicable,Allowed,No,"Pack in sturdy, moisture-resistant packaging.",packing-images\0008.jpg
+Snacks,Sesame Rolls,Not applicable,Allowed,No,Wrap in food-grade plastic or resealable bags.,packing-images\0001.jpg
+Others,Lunu Miris (Chili Paste),Not applicable,Allowed,No,Must be in sealed jars to avoid leaks.,packing-images\0018.jpg
+Others,Pol Sambol (Desiccated Coconut Mix),Not applicable,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Others,Seeni Sambol (Caramelized Onion Relish),Not applicable,Allowed,No,Pack in leak-proof jars or containers.,packing-images\0018.jpg
+Others,Curry Powder,Not applicable,Allowed,No,Use moisture-proof bags or containers.,packing-images\0010.jpg
+Others,Roasted Curry Powder,Not applicable,Allowed,No,Use original sealed packaging to preserve aroma.,packing-images\0010.jpg
+Others,Ceylon Tea (Loose-Leaf or Bags),Not applicable,Allowed,No,Use original packaging or resealable pouches.,packing-images\0010.jpg
+Others,"Herbal Teas (e.g., Gotu Kola, Belimal)",Not applicable,Allowed,No,Pack in airtight bags to maintain flavor.,packing-images\0020.jpg
+Others,Fresh King Coconut Water,Not applicable,Restricted,Yes,Use sealed containers and refrigerate before travel.,packing-images\0002.jpg
+Others,Ceylon Cinnamon Sticks,Not applicable,Allowed,No,Pack in sealed plastic bags or spice jars.,packing-images\0018.jpg
+Others,Dried Red Chilies,Not applicable,Allowed,No,"Pack in sealed, odor-proof containers.",packing-images\0002.jpg
+Others,Batu Moju,Not applicable,Allowed,No,Use airtight glass jars to prevent leakage and ensure freshness. Clearly label the contents.,packing-images\0018.jpg
+Others,Tea (Loose Leaves),Not applicable,Allowed,No,Store in resealable bags or airtight tins.,packing-images\0020.jpg
+Others,Ambul Thiyal,Not applicable,Restricted,Yes,Vacuum-pack to retain freshness; check restrictions.,packing-images\0005.jpg
+Others,Mango Pickle,Not applicable,Allowed,No,Use leak-proof jars; label with contents clearly.,packing-images\0018.jpg
+Others,Lunu Dehi,Not applicable,Allowed,No,Use small jars with spill-proof lids.,packing-images\0018.jpg
+Others,Katta Sambol (Chili Paste),Not applicable,Restricted,Yes,Vacuum-seal to prevent spillage; restricted items.,packing-images\0005.jpg
+Others,Wandu Appa,Not applicable,Restricted,Yes,Wrap in wax paper; prohibited in some countries.,packing-images\0029.jpg
+Others,Gotu Kola Powder,Not applicable,Allowed,No,Use sealed containers with proper labeling.,packing-images\0002.jpg
+Others,Polos Ambula (Jackfruit Curry Paste),Not applicable,Allowed,No,Pack in vacuum-sealed pouches or airtight containers. Clearly label the item with ingredients.,packing-images\0006.jpg
+Others,Wood Apple Jam,Not applicable,Allowed,No,Seal in glass jars with tamper-proof lids. Wrap jars in bubble wrap for safety during transit.,packing-images\0018.jpg
