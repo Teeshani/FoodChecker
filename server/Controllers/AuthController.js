@@ -6,13 +6,14 @@ const UserModel = require("../Models/User");
 
 const signup = async (req, res) => {
     try {
-        const { name, email, password } = req.body;
+        console.log("Request Body:", req.body);
+        const { name, email, password, userType } = req.body;
         const user = await UserModel.findOne({ email });
         if (user) {
             return res.status(409)
                 .json({ message: 'User is already exist, you can login', success: false });
         }
-        const userModel = new UserModel({ name, email, password });
+        const userModel = new UserModel({ name, email, password, userType });
         userModel.password = await bcrypt.hash(password, 10);
         await userModel.save();
         res.status(201)
