@@ -1,0 +1,48 @@
+.userhome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #141E30, #243B55);
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  .userhome-card {
+    background: rgba(255, 255, 255, 0.918);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.2);
+    width: 400px;
+    max-width: 90%;
+  }
+  
+  .userhome-card h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #ccc;
+  }
+  
+  .userhome-card p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #ccc;
+  }
+  
+  .logout-button {
+    background-color: #ffc107;
+    color: black;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .logout-button:hover {
+    background-color: #e0a800;
+  }
+  

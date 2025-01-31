@@ -66,10 +66,10 @@ label {
 }
 
 .signup-content .user-type-container label {
-  font-size: 15px; /* Adjust font size for better readability */
+  font-size: 15px; 
   display: flex;
   align-items: center;
-  gap: 10px; /* Space between the radio button and the label text */
+  gap: 10px; 
 }
 
 .signup-content input[type="radio"] {

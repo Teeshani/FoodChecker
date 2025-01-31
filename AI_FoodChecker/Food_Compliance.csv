@@ -1,0 +1,1121 @@
+Category,Food_Item,Travel_Time,Cooking_Status,Compliance_Status,Special_Packing_Required,Packing_Guidelines,Image_URL
+Vegetables,Carrot,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (No extra precautions needed.),packing-images\0001.jpg
+Vegetables,Carrot,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Carrot,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Carrot,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Carrot,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Carrot,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Carrot,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Carrot,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Carrot,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Carrot,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Broccoli,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Broccoli,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Broccoli,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Broccoli,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Broccoli,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Broccoli,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Vegetables,Broccoli,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Broccoli,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Vegetables,Broccoli,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Broccoli,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Vegetables,Spinach,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Spinach,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Spinach,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Spinach,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Spinach,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Spinach,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Vegetables,Spinach,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Spinach,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Vegetables,Spinach,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Spinach,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Vegetables,Tomato,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Tomato,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Tomato,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Tomato,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Tomato,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Tomato,3–5 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Tomato,6–8 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Tomato,9–12 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Tomato,13–18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Tomato,Above 18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Onion,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Onion,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Onion,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Onion,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Onion,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Onion,3–5 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Onion,6–8 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Onion,9–12 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Onion,13–18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Onion,Above 18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Potato,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Potato,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Potato,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Potato,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Potato,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Potato,3–5 hours,Uncooked,Allowed,No,Potatoes must be free of soil and pests.,packing-images\0012.jpg
+Vegetables,Potato,6–8 hours,Uncooked,Allowed,No,Potatoes must be free of soil and pests.,packing-images\0012.jpg
+Vegetables,Potato,9–12 hours,Uncooked,Allowed,No,Potatoes must be free of soil and pests.,packing-images\0012.jpg
+Vegetables,Potato,13–18 hours,Uncooked,Allowed,No,Potatoes must be free of soil and pests.,packing-images\0012.jpg
+Vegetables,Potato,Above 18 hours,Uncooked,Allowed,No,Potatoes must be free of soil and pests.,packing-images\0012.jpg
+Vegetables,Capsicum,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Capsicum,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Capsicum,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Capsicum,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Capsicum,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Capsicum,3–5 hours,Uncooked,Restricted,Yes,Capsicum must be in air-tight packages.,packing-images\0006.jpg
+Vegetables,Capsicum,6–8 hours,Uncooked,Restricted,Yes,Capsicum must be in air-tight packages.,packing-images\0006.jpg
+Vegetables,Capsicum,9–12 hours,Uncooked,Restricted,Yes,Capsicum must be in air-tight packages.,packing-images\0006.jpg
+Vegetables,Capsicum,13–18 hours,Uncooked,Restricted,Yes,Capsicum must be in air-tight packages.,packing-images\0006.jpg
+Vegetables,Capsicum,Above 18 hours,Uncooked,Restricted,Yes,Capsicum must be in air-tight packages.,packing-images\0006.jpg
+Vegetables,Lettuce,3–5 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Lettuce,6–8 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Lettuce,9–12 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Lettuce,13–18 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Lettuce,Above 18 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Lettuce,3–5 hours,Uncooked,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Vegetables,Lettuce,6–8 hours,Uncooked,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Vegetables,Lettuce,9–12 hours,Uncooked,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Vegetables,Lettuce,13–18 hours,Uncooked,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Vegetables,Lettuce,Above 18 hours,Uncooked,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Vegetables,Fresh Peppers,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Fresh Peppers,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Fresh Peppers,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Fresh Peppers,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Fresh Peppers,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Fresh Peppers,3–5 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Fresh Peppers,6–8 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Fresh Peppers,9–12 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Fresh Peppers,13–18 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Fresh Peppers,Above 18 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Dried Mushrooms,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Dried Mushrooms,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Dried Mushrooms,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Dried Mushrooms,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Dried Mushrooms,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Dried Mushrooms,3–5 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Vegetables,Dried Mushrooms,6–8 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Vegetables,Dried Mushrooms,9–12 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Vegetables,Dried Mushrooms,13–18 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Vegetables,Dried Mushrooms,Above 18 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Vegetables,Sweet Corn,3–5 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Vegetables,Sweet Corn,6–8 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Vegetables,Sweet Corn,9–12 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Vegetables,Sweet Corn,13–18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Vegetables,Sweet Corn,Above 18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Vegetables,Sweet Corn,3–5 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Sweet Corn,6–8 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Sweet Corn,9–12 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Sweet Corn,13–18 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Sweet Corn,Above 18 hours,Uncooked,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Vegetables,Zucchini,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Zucchini,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Zucchini,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Zucchini,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Zucchini,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Zucchini,3–5 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Vegetables,Zucchini,6–8 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Vegetables,Zucchini,9–12 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Vegetables,Zucchini,13–18 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Vegetables,Zucchini,Above 18 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Vegetables,Cabbage,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Cabbage,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Cabbage,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Cabbage,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Cabbage,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Cabbage,3–5 hours,Uncooked,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Vegetables,Cabbage,6–8 hours,Uncooked,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Vegetables,Cabbage,9–12 hours,Uncooked,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Vegetables,Cabbage,13–18 hours,Uncooked,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Vegetables,Cabbage,Above 18 hours,Uncooked,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Vegetables,Garlic,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Garlic,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Garlic,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Garlic,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Garlic,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Garlic,3–5 hours,Uncooked,Allowed,No,Pack in a ventilated container.,packing-images\0015.jpg
+Vegetables,Garlic,6–8 hours,Uncooked,Allowed,No,Pack in a ventilated container.,packing-images\0015.jpg
+Vegetables,Garlic,9–12 hours,Uncooked,Allowed,No,Pack in a ventilated container.,packing-images\0015.jpg
+Vegetables,Garlic,13–18 hours,Uncooked,Allowed,No,Pack in a ventilated container.,packing-images\0015.jpg
+Vegetables,Garlic,Above 18 hours,Uncooked,Allowed,No,Pack in a ventilated container.,packing-images\0015.jpg
+Vegetables,Chilies,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Chilies,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Chilies,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Chilies,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Chilies,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Chilies,3–5 hours,Uncooked,Allowed,No,Pack in an airtight bag.,packing-images\0020.jpg
+Vegetables,Chilies,6–8 hours,Uncooked,Allowed,No,Pack in an airtight bag.,packing-images\0020.jpg
+Vegetables,Chilies,9–12 hours,Uncooked,Allowed,No,Pack in an airtight bag.,packing-images\0020.jpg
+Vegetables,Chilies,13–18 hours,Uncooked,Allowed,No,Pack in an airtight bag.,packing-images\0020.jpg
+Vegetables,Chilies,Above 18 hours,Uncooked,Allowed,No,Pack in an airtight bag.,packing-images\0020.jpg
+Vegetables,Pumpkin,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Pumpkin,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Pumpkin,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Pumpkin,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Pumpkin,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Pumpkin,3–5 hours,Uncooked,Allowed,No,Cut into manageable sizes.,packing-images\0016.jpg
+Vegetables,Pumpkin,6–8 hours,Uncooked,Allowed,No,Cut into manageable sizes.,packing-images\0016.jpg
+Vegetables,Pumpkin,9–12 hours,Uncooked,Allowed,No,Cut into manageable sizes.,packing-images\0016.jpg
+Vegetables,Pumpkin,13–18 hours,Uncooked,Allowed,No,Cut into manageable sizes.,packing-images\0016.jpg
+Vegetables,Pumpkin,Above 18 hours,Uncooked,Allowed,No,Cut into manageable sizes.,packing-images\0016.jpg
+Vegetables,Leeks,3–5 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Leeks,6–8 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Leeks,9–12 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Leeks,13–18 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Leeks,Above 18 hours,Cooked,Allowed,No,Pack in breathable mesh bags to maintain freshness.,packing-images\0007.jpg
+Vegetables,Leeks,3–5 hours,Uncooked,Restricted,Yes,Avoid carrying fresh.,packing-images\0017.jpg
+Vegetables,Leeks,6–8 hours,Uncooked,Restricted,Yes,Avoid carrying fresh.,packing-images\0017.jpg
+Vegetables,Leeks,9–12 hours,Uncooked,Restricted,Yes,Avoid carrying fresh.,packing-images\0017.jpg
+Vegetables,Leeks,13–18 hours,Uncooked,Restricted,Yes,Avoid carrying fresh.,packing-images\0017.jpg
+Vegetables,Leeks,Above 18 hours,Uncooked,Restricted,Yes,Avoid carrying fresh.,packing-images\0017.jpg
+Vegetables,Cauliflower,3–5 hours,Cooked,Allowed,No,Use sturdy containers to prevent damage,packing-images\0002.jpg
+Vegetables,Cauliflower,6–8 hours,Cooked,Allowed,No,Use sturdy containers to prevent damage,packing-images\0002.jpg
+Vegetables,Cauliflower,9–12 hours,Cooked,Allowed,No,Use sturdy containers to prevent damage,packing-images\0002.jpg
+Vegetables,Cauliflower,13–18 hours,Cooked,Allowed,No,Use sturdy containers to prevent damage,packing-images\0002.jpg
+Vegetables,Cauliflower,Above 18 hours,Cooked,Allowed,No,Use sturdy containers to prevent damage,packing-images\0002.jpg
+Vegetables,Cauliflower,3–5 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Cauliflower,6–8 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Cauliflower,9–12 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Cauliflower,13–18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Cauliflower,Above 18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Vegetables,Pickles,3–5 hours,Cooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,6–8 hours,Cooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,9–12 hours,Cooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,13–18 hours,Cooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,Above 18 hours,Cooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,3–5 hours,Uncooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,6–8 hours,Uncooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,9–12 hours,Uncooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,13–18 hours,Uncooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Pickles,Above 18 hours,Uncooked,Allowed,No,Must be in sealed jars.,packing-images\0018.jpg
+Vegetables,Eggplant,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Eggplant,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Eggplant,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Eggplant,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Eggplant,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Eggplant,3–5 hours,Uncooked,Allowed,No,Use breathable mesh bags to maintain freshness.,packing-images\0011.jpg
+Vegetables,Eggplant,6–8 hours,Uncooked,Allowed,No,Use breathable mesh bags to maintain freshness.,packing-images\0011.jpg
+Vegetables,Eggplant,9–12 hours,Uncooked,Allowed,No,Use breathable mesh bags to maintain freshness.,packing-images\0011.jpg
+Vegetables,Eggplant,13–18 hours,Uncooked,Allowed,No,Use breathable mesh bags to maintain freshness.,packing-images\0011.jpg
+Vegetables,Eggplant,Above 18 hours,Uncooked,Allowed,No,Use breathable mesh bags to maintain freshness.,packing-images\0011.jpg
+Vegetables,Radish,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Radish,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Radish,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Radish,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Radish,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Radish,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Vegetables,Radish,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Radish,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Vegetables,Radish,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Radish,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Vegetables,Ginger,3–5 hours,Cooked,Allowed,No,Pack in airtight containers.,packing-images\0006.jpg
+Vegetables,Ginger,6–8 hours,Cooked,Allowed,No,Pack in airtight containers.,packing-images\0006.jpg
+Vegetables,Ginger,9–12 hours,Cooked,Allowed,No,Pack in airtight containers.,packing-images\0006.jpg
+Vegetables,Ginger,13–18 hours,Cooked,Allowed,No,Pack in airtight containers.,packing-images\0006.jpg
+Vegetables,Ginger,Above 18 hours,Cooked,Allowed,No,Pack in airtight containers.,packing-images\0006.jpg
+Vegetables,Ginger,3–5 hours,Uncooked,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Ginger,6–8 hours,Uncooked,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Ginger,9–12 hours,Uncooked,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Ginger,13–18 hours,Uncooked,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Ginger,Above 18 hours,Uncooked,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Vegetables,Okra (Ladies’ Fingers),3–5 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Okra (Ladies’ Fingers),6–8 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Okra (Ladies’ Fingers),9–12 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Okra (Ladies’ Fingers),13–18 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Okra (Ladies’ Fingers),Above 18 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Okra (Ladies’ Fingers),3–5 hours,Uncooked,Restricted,Yes,Store in insulated bags with proper cooling.,packing-images\0019.jpg
+Vegetables,Okra (Ladies’ Fingers),6–8 hours,Uncooked,Restricted,Yes,Store in insulated bags with proper cooling.,packing-images\0019.jpg
+Vegetables,Okra (Ladies’ Fingers),9–12 hours,Uncooked,Restricted,Yes,Store in insulated bags with proper cooling.,packing-images\0019.jpg
+Vegetables,Okra (Ladies’ Fingers),13–18 hours,Uncooked,Restricted,Yes,Store in insulated bags with proper cooling.,packing-images\0019.jpg
+Vegetables,Okra (Ladies’ Fingers),Above 18 hours,Uncooked,Restricted,Yes,Store in insulated bags with proper cooling.,packing-images\0019.jpg
+Vegetables,Bitter Gourd,3–5 hours,Cooked,Allowed,No,Pack in resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Bitter Gourd,6–8 hours,Cooked,Allowed,No,Pack in resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Bitter Gourd,9–12 hours,Cooked,Allowed,No,Pack in resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Bitter Gourd,13–18 hours,Cooked,Allowed,No,"Pack in resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Bitter Gourd,Above 18 hours,Cooked,Allowed,No,Pack in resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Bitter Gourd,3–5 hours,Uncooked,Allowed,No,Wrap in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Vegetables,Bitter Gourd,6–8 hours,Uncooked,Allowed,No,Wrap in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Vegetables,Bitter Gourd,9–12 hours,Uncooked,Allowed,No,Wrap in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Vegetables,Bitter Gourd,13–18 hours,Uncooked,Allowed,No,Wrap in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Vegetables,Bitter Gourd,Above 18 hours,Uncooked,Allowed,No,Wrap in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Vegetables,Drumsticks,3–5 hours,Cooked,Allowed,No,Use airtight containers to maintain freshness.,packing-images\0006.jpg
+Vegetables,Drumsticks,6–8 hours,Cooked,Allowed,No,Use airtight containers to maintain freshness.,packing-images\0006.jpg
+Vegetables,Drumsticks,9–12 hours,Cooked,Allowed,No,Use airtight containers to maintain freshness.,packing-images\0006.jpg
+Vegetables,Drumsticks,13–18 hours,Cooked,Allowed,No,Use airtight containers to maintain freshness.,packing-images\0006.jpg
+Vegetables,Drumsticks,Above 18 hours,Cooked,Allowed,No,Use airtight containers to maintain freshness.,packing-images\0006.jpg
+Vegetables,Drumsticks,3–5 hours,Uncooked,Allowed,No,Store in perforated plastic containers to prevent spoilage.,packing-images\0002.jpg
+Vegetables,Drumsticks,6–8 hours,Uncooked,Allowed,No,Store in perforated plastic containers to prevent spoilage.,packing-images\0002.jpg
+Vegetables,Drumsticks,9–12 hours,Uncooked,Allowed,No,Store in perforated plastic containers to prevent spoilage.,packing-images\0002.jpg
+Vegetables,Drumsticks,13–18 hours,Uncooked,Allowed,No,Store in perforated plastic containers to prevent spoilage.,packing-images\0002.jpg
+Vegetables,Drumsticks,Above 18 hours,Uncooked,Allowed,No,Store in perforated plastic containers to prevent spoilage.,packing-images\0002.jpg
+Vegetables,Beetroot,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-safe plastic containers.,packing-images\0002.jpg
+Vegetables,Beetroot,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-safe plastic containers.,packing-images\0002.jpg
+Vegetables,Beetroot,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-safe plastic containers.,packing-images\0002.jpg
+Vegetables,Beetroot,13–18 hours,Cooked,Allowed,No,Use resealable bags or food-safe plastic containers.,packing-images\0002.jpg
+Vegetables,Beetroot,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-safe plastic containers.,packing-images\0002.jpg
+Vegetables,Beetroot,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid crushing.,packing-images\0002.jpg
+Vegetables,Beetroot,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid crushing.,packing-images\0002.jpg
+Vegetables,Beetroot,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid crushing.,packing-images\0002.jpg
+Vegetables,Beetroot,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid crushing.,packing-images\0002.jpg
+Vegetables,Beetroot,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid crushing.,packing-images\0002.jpg
+Vegetables,Green Beans,3–5 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Green Beans,6–8 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Green Beans,9–12 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Green Beans,13–18 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Green Beans,Above 18 hours,Cooked,Allowed,No,Use resealable bags or airtight packaging.,packing-images\0006.jpg
+Vegetables,Green Beans,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Vegetables,Green Beans,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Green Beans,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Vegetables,Green Beans,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Vegetables,Green Beans,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Vegetables,Curry Leaves,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Curry Leaves,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Curry Leaves,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Curry Leaves,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Curry Leaves,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Curry Leaves,3–5 hours,Uncooked,Allowed,No,Pack in airtight bags to preserve freshness.,packing-images\0020.jpg
+Vegetables,Curry Leaves,6–8 hours,Uncooked,Allowed,No,Pack in airtight bags to preserve freshness.,packing-images\0020.jpg
+Vegetables,Curry Leaves,9–12 hours,Uncooked,Allowed,No,Pack in airtight bags to preserve freshness.,packing-images\0020.jpg
+Vegetables,Curry Leaves,13–18 hours,Uncooked,Allowed,No,Pack in airtight bags to preserve freshness.,packing-images\0020.jpg
+Vegetables,Curry Leaves,Above 18 hours,Uncooked,Allowed,No,Pack in airtight bags to preserve freshness.,packing-images\0020.jpg
+Vegetables,Snake Gourd,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Snake Gourd,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Snake Gourd,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Snake Gourd,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Snake Gourd,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Snake Gourd,3–5 hours,Uncooked,Allowed,No,Wrap in damp paper towels for freshness.,packing-images\0021.jpg
+Vegetables,Snake Gourd,6–8 hours,Uncooked,Allowed,No,Wrap in damp paper towels for freshness.,packing-images\0021.jpg
+Vegetables,Snake Gourd,9–12 hours,Uncooked,Allowed,No,Wrap in damp paper towels for freshness.,packing-images\0021.jpg
+Vegetables,Snake Gourd,13–18 hours,Uncooked,Allowed,No,Wrap in damp paper towels for freshness.,packing-images\0021.jpg
+Vegetables,Snake Gourd,Above 18 hours,Uncooked,Allowed,No,Wrap in damp paper towels for freshness.,packing-images\0021.jpg
+Vegetables,Yam (Kiri Ala),3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Vegetables,Yam (Kiri Ala),6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Vegetables,Yam (Kiri Ala),9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Vegetables,Yam (Kiri Ala),13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Vegetables,Yam (Kiri Ala),Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Vegetables,Yam (Kiri Ala),3–5 hours,Uncooked,Allowed,No,Must be washed and packed free of soil.,packing-images\0012.jpg
+Vegetables,Yam (Kiri Ala),6–8 hours,Uncooked,Allowed,No,Must be washed and packed free of soil.,packing-images\0012.jpg
+Vegetables,Yam (Kiri Ala),9–12 hours,Uncooked,Allowed,No,Must be washed and packed free of soil.,packing-images\0012.jpg
+Vegetables,Yam (Kiri Ala),13–18 hours,Uncooked,Allowed,No,Must be washed and packed free of soil.,packing-images\0012.jpg
+Vegetables,Yam (Kiri Ala),Above 18 hours,Uncooked,Allowed,No,Must be washed and packed free of soil.,packing-images\0012.jpg
+Vegetables,Breadfruit,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0021.jpg
+Vegetables,Breadfruit,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0021.jpg
+Vegetables,Breadfruit,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0021.jpg
+Vegetables,Breadfruit,13–18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0021.jpg
+Vegetables,Breadfruit,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0021.jpg
+Vegetables,Breadfruit,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Breadfruit,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Breadfruit,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Breadfruit,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Vegetables,Breadfruit,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fruits,Apple,3–5 hours,Not applicable,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Apple,6–8 hours,Not applicable,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Apple,9–12 hours,Not applicable,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Apple,13–18 hours,Not applicable,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Apple,Above 18 hours,Not applicable,Allowed,No,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Mango,3–5 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fruits,Mango,6–8 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fruits,Mango,9–12 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fruits,Mango,13–18 hours,Not applicable,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fruits,Mango,Above 18 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fruits,Banana,3–5 hours,Not applicable,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fruits,Banana,6–8 hours,Not applicable,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fruits,Banana,9–12 hours,Not applicable,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fruits,Banana,13–18 hours,Not applicable,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fruits,Banana,Above 18 hours,Not applicable,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fruits,Grapes,3–5 hours,Not applicable,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fruits,Grapes,6–8 hours,Not applicable,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fruits,Grapes,9–12 hours,Not applicable,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fruits,Grapes,13–18 hours,Not applicable,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fruits,Grapes,Above 18 hours,Not applicable,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fruits,Orange,3–5 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fruits,Orange,6–8 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fruits,Orange,9–12 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fruits,Orange,13–18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fruits,Orange,Above 18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fruits,Papaya,3–5 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Papaya,6–8 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Papaya,9–12 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Papaya,13–18 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Papaya,Above 18 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Pineapple,3–5 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Pineapple,6–8 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Pineapple,9–12 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Pineapple,13–18 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Pineapple,Above 18 hours,Not applicable,Allowed,No,Pack in food-grade wrapping paper.,packing-images\0021.jpg
+Fruits,Frozen Berries,3–5 hours,Not applicable,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fruits,Frozen Berries,6–8 hours,Not applicable,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fruits,Frozen Berries,9–12 hours,Not applicable,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fruits,Frozen Berries,13–18 hours,Not applicable,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fruits,Frozen Berries,Above 18 hours,Not applicable,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fruits,Pomegranates,3–5 hours,Not applicable,Restricted,Yes,Not allowed due to biohazard risk.,packing-images\0022.jpg
+Fruits,Pomegranates,6–8 hours,Not applicable,Restricted,Yes,Not allowed due to biohazard risk.,packing-images\0022.jpg
+Fruits,Pomegranates,9–12 hours,Not applicable,Restricted,Yes,Not allowed due to biohazard risk.,packing-images\0022.jpg
+Fruits,Pomegranates,13–18 hours,Not applicable,Restricted,Yes,Not allowed due to biohazard risk.,packing-images\0022.jpg
+Fruits,Pomegranates,Above 18 hours,Not applicable,Restricted,Yes,Not allowed due to biohazard risk.,packing-images\0022.jpg
+Fruits,Watermelon,3–5 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fruits,Watermelon,6–8 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fruits,Watermelon,9–12 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fruits,Watermelon,13–18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fruits,Watermelon,Above 18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fruits,Strawberry,3–5 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fruits,Strawberry,6–8 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fruits,Strawberry,9–12 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fruits,Strawberry,13–18 hours,Not applicable,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fruits,Strawberry,Above 18 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fruits,Pear,3–5 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or sturdy containers.,packing-images\0011.jpg
+Fruits,Pear,6–8 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or sturdy containers.,packing-images\0011.jpg
+Fruits,Pear,9–12 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or sturdy containers.,packing-images\0011.jpg
+Fruits,Pear,13–18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or sturdy containers.,packing-images\0011.jpg
+Fruits,Pear,Above 18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags or sturdy containers.,packing-images\0011.jpg
+Fruits,Guava,3–5 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fruits,Guava,6–8 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fruits,Guava,9–12 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fruits,Guava,13–18 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fruits,Guava,Above 18 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fruits,Dragon Fruit,3–5 hours,Not applicable,Allowed,No,Store in perforated plastic containers.,packing-images\0002.jpg
+Fruits,Dragon Fruit,6–8 hours,Not applicable,Allowed,No,Store in perforated plastic containers.,packing-images\0002.jpg
+Fruits,Dragon Fruit,9–12 hours,Not applicable,Allowed,No,Store in perforated plastic containers.,packing-images\0002.jpg
+Fruits,Dragon Fruit,13–18 hours,Not applicable,Allowed,No,Store in perforated plastic containers.,packing-images\0002.jpg
+Fruits,Dragon Fruit,Above 18 hours,Not applicable,Allowed,No,Store in perforated plastic containers.,packing-images\0002.jpg
+Fruits,Jackfruit (Fresh),3–5 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Jackfruit (Fresh),6–8 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Jackfruit (Fresh),9–12 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Jackfruit (Fresh),13–18 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Jackfruit (Fresh),Above 18 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fruits,Woodapple,3–5 hours,Not applicable,Allowed,No,Wrap securely to prevent damage.,packing-images\0023.jpg
+Fruits,Woodapple,6–8 hours,Not applicable,Allowed,No,Wrap securely to prevent damage.,packing-images\0023.jpg
+Fruits,Woodapple,9–12 hours,Not applicable,Allowed,No,Wrap securely to prevent damage.,packing-images\0023.jpg
+Fruits,Woodapple,13–18 hours,Not applicable,Allowed,No,Wrap securely to prevent damage.,packing-images\0023.jpg
+Fruits,Woodapple,Above 18 hours,Not applicable,Allowed,No,Wrap securely to prevent damage.,packing-images\0023.jpg
+Fruits,Rambutan,3–5 hours,Not applicable,Allowed,No,Pack in breathable mesh bags for airflow.,packing-images\0007.jpg
+Fruits,Rambutan,6–8 hours,Not applicable,Allowed,No,Pack in breathable mesh bags for airflow.,packing-images\0007.jpg
+Fruits,Rambutan,9–12 hours,Not applicable,Allowed,No,Pack in breathable mesh bags for airflow.,packing-images\0007.jpg
+Fruits,Rambutan,13–18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags for airflow.,packing-images\0007.jpg
+Fruits,Rambutan,Above 18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags for airflow.,packing-images\0007.jpg
+Fruits,Mangosteen,3–5 hours,Not applicable,Restricted,Yes,Use insulated coolers for proper transport.,packing-images\0019.jpg
+Fruits,Mangosteen,6–8 hours,Not applicable,Restricted,Yes,Use insulated coolers for proper transport.,packing-images\0019.jpg
+Fruits,Mangosteen,9–12 hours,Not applicable,Restricted,Yes,Use insulated coolers for proper transport.,packing-images\0019.jpg
+Fruits,Mangosteen,13–18 hours,Not applicable,Restricted,Yes,Use insulated coolers for proper transport.,packing-images\0019.jpg
+Fruits,Mangosteen,Above 18 hours,Not applicable,Restricted,Yes,Use insulated coolers for proper transport.,packing-images\0019.jpg
+Fruits,Star Fruit,3–5 hours,Not applicable,Allowed,No,Pack in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Fruits,Star Fruit,6–8 hours,Not applicable,Allowed,No,Pack in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Fruits,Star Fruit,9–12 hours,Not applicable,Allowed,No,Pack in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Fruits,Star Fruit,13–18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Fruits,Star Fruit,Above 18 hours,Not applicable,Allowed,No,Pack in breathable mesh bags to avoid damage.,packing-images\0007.jpg
+Fruits,Jackfruit Seeds,3–5 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fruits,Jackfruit Seeds,6–8 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fruits,Jackfruit Seeds,9–12 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fruits,Jackfruit Seeds,13–18 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fruits,Jackfruit Seeds,Above 18 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fruits,Jackfruit Seeds,3–5 hours,Uncooked,Restricted,Yes,Requires commercial-grade vacuum-sealed packaging.,packing-images\0005.jpg
+Fruits,Jackfruit Seeds,6–8 hours,Uncooked,Restricted,Yes,Requires commercial-grade vacuum-sealed packaging.,packing-images\0005.jpg
+Fruits,Jackfruit Seeds,9–12 hours,Uncooked,Restricted,Yes,Requires commercial-grade vacuum-sealed packaging.,packing-images\0005.jpg
+Fruits,Jackfruit Seeds,13–18 hours,Uncooked,Restricted,Yes,Requires commercial-grade vacuum-sealed packaging.,packing-images\0005.jpg
+Fruits,Jackfruit Seeds,Above 18 hours,Uncooked,Restricted,Yes,Requires commercial-grade vacuum-sealed packaging.,packing-images\0005.jpg
+Fruits,Passion Fruit,3–5 hours,Not applicable,Allowed,No,Pack in breathable containers to avoid damage.,packing-images\0002.jpg
+Fruits,Passion Fruit,6–8 hours,Not applicable,Allowed,No,Pack in breathable containers to avoid damage.,packing-images\0002.jpg
+Fruits,Passion Fruit,9–12 hours,Not applicable,Allowed,No,Pack in breathable containers to avoid damage.,packing-images\0002.jpg
+Fruits,Passion Fruit,13–18 hours,Not applicable,Allowed,No,Pack in breathable containers to avoid damage.,packing-images\0002.jpg
+Fruits,Passion Fruit,Above 18 hours,Not applicable,Allowed,No,Pack in breathable containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Chicken,3–5 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,6–8 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,9–12 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,13–18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,Above 18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,3–5 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,6–8 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,9–12 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,13–18 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Chicken,Above 18 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Turkey,3–5 hours,Cooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,6–8 hours,Cooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,9–12 hours,Cooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,13–18 hours,Cooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,Above 18 hours,Cooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,3–5 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,6–8 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,9–12 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,13–18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Turkey,Above 18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Beef,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Beef,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Beef,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Beef,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Beef,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Beef,3–5 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Beef,6–8 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Beef,9–12 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Beef,13–18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Beef,Above 18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Fish,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Fish,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Fish,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Fish,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Fish,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Fish,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fish or Meats,Fish,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Fish,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fish or Meats,Fish,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Fish,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fish or Meats,Pork,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Pork,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Pork,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Pork,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Pork,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Pork,3–5 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Pork,6–8 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Pork,9–12 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Pork,13–18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Pork,Above 18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Fish or Meats,Mutton,3–5 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Mutton,6–8 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Mutton,9–12 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Mutton,13–18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Mutton,Above 18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Mutton,3–5 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Mutton,6–8 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Mutton,9–12 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Mutton,13–18 hours,Uncooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Mutton,Above 18 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Salmon,3–5 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,6–8 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,9–12 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,13–18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,Above 18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,3–5 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,6–8 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,9–12 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,13–18 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Salmon,Above 18 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Shrimp,3–5 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Shrimp,6–8 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Shrimp,9–12 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Shrimp,13–18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Shrimp,Above 18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Shrimp,3–5 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Shrimp,6–8 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Shrimp,9–12 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Shrimp,13–18 hours,Uncooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Shrimp,Above 18 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Tuna,3–5 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Tuna,6–8 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Tuna,9–12 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Tuna,13–18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Tuna,Above 18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Fish or Meats,Tuna,3–5 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Tuna,6–8 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Tuna,9–12 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Tuna,13–18 hours,Uncooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Tuna,Above 18 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Crab,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Crab,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Crab,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Crab,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Crab,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Fish or Meats,Lobster,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fish or Meats,Lobster,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Lobster,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fish or Meats,Lobster,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Lobster,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fish or Meats,Lamb,3–5 hours,Cooked,Restricted,Yes,Store in thermal bags to maintain freshness,packing-images\0004.jpg
+Fish or Meats,Lamb,6–8 hours,Cooked,Restricted,Yes,Store in thermal bags to maintain freshness,packing-images\0004.jpg
+Fish or Meats,Lamb,9–12 hours,Cooked,Restricted,Yes,Store in thermal bags to maintain freshness,packing-images\0004.jpg
+Fish or Meats,Lamb,13–18 hours,Cooked,Restricted,Yes,Store in thermal bags to maintain freshness,packing-images\0004.jpg
+Fish or Meats,Lamb,Above 18 hours,Cooked,Restricted,Yes,Store in thermal bags to maintain freshness,packing-images\0004.jpg
+Fish or Meats,Lamb,3–5 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fish or Meats,Lamb,6–8 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fish or Meats,Lamb,9–12 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fish or Meats,Lamb,13–18 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fish or Meats,Lamb,Above 18 hours,Uncooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers.,packing-images\0011.jpg
+Fish or Meats,Frozen Fish,3–5 hours,Cooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,6–8 hours,Cooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,9–12 hours,Cooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,13–18 hours,Cooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,Above 18 hours,Cooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,3–5 hours,Uncooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,6–8 hours,Uncooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,9–12 hours,Uncooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,13–18 hours,Uncooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Frozen Fish,Above 18 hours,Uncooked,Restricted,Yes,Only allowed if properly frozen and sealed.,packing-images\0024.jpg
+Fish or Meats,Duck,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Duck,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Duck,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Duck,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Duck,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Duck,3–5 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Duck,6–8 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Duck,9–12 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Duck,13–18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Duck,Above 18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Anchovies,3–5 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Anchovies,6–8 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Anchovies,9–12 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Anchovies,13–18 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Anchovies,Above 18 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Anchovies,3–5 hours,Uncooked,Allowed,No,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fish or Meats,Anchovies,6–8 hours,Uncooked,Allowed,No,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Anchovies,9–12 hours,Uncooked,Allowed,No,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fish or Meats,Anchovies,13–18 hours,Uncooked,Allowed,No,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Anchovies,Above 18 hours,Uncooked,Allowed,No,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fish or Meats,Clams,3–5 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Clams,6–8 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Clams,9–12 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Clams,13–18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Clams,Above 18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Fish or Meats,Clams,3–5 hours,Uncooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fish or Meats,Clams,6–8 hours,Uncooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fish or Meats,Clams,9–12 hours,Uncooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fish or Meats,Clams,13–18 hours,Uncooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fish or Meats,Clams,Above 18 hours,Uncooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Fish or Meats,Dried Fish,3–5 hours,Cooked,Allowed,No,Use resealable food-grade bags.,packing-images\0001.jpg
+Fish or Meats,Dried Fish,6–8 hours,Cooked,Allowed,No,Use resealable food-grade bags. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Dried Fish,9–12 hours,Cooked,Allowed,No,Use resealable food-grade bags. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Dried Fish,13–18 hours,Cooked,Allowed,No,"Use resealable food-grade bags, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Dried Fish,Above 18 hours,Cooked,Allowed,No,Use resealable food-grade bags inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Dried Fish,3–5 hours,Uncooked,Restricted,Yes,Use airtight containers to avoid odors.,packing-images\0006.jpg
+Fish or Meats,Dried Fish,6–8 hours,Uncooked,Restricted,Yes,Use airtight containers to avoid odors.,packing-images\0006.jpg
+Fish or Meats,Dried Fish,9–12 hours,Uncooked,Restricted,Yes,Use airtight containers to avoid odors.,packing-images\0006.jpg
+Fish or Meats,Dried Fish,13–18 hours,Uncooked,Restricted,Yes,Use airtight containers to avoid odors.,packing-images\0006.jpg
+Fish or Meats,Dried Fish,Above 18 hours,Uncooked,Restricted,Yes,Use airtight containers to avoid odors.,packing-images\0006.jpg
+Fish or Meats,Sardines,3–5 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Fish or Meats,Sardines,6–8 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Fish or Meats,Sardines,9–12 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Fish or Meats,Sardines,13–18 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Fish or Meats,Sardines,Above 18 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Fish or Meats,Sardines,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fish or Meats,Sardines,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Sardines,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fish or Meats,Sardines,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Sardines,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fish or Meats,Goat Meat,3–5 hours,Cooked,Allowed,No,Use breathable bags or perforated containers for freshness.,packing-images\0024.jpg
+Fish or Meats,Goat Meat,6–8 hours,Cooked,Allowed,No,Use breathable bags or perforated containers for freshness.,packing-images\0024.jpg
+Fish or Meats,Goat Meat,9–12 hours,Cooked,Allowed,No,Use breathable bags or perforated containers for freshness.,packing-images\0024.jpg
+Fish or Meats,Goat Meat,13–18 hours,Cooked,Allowed,No,Use breathable bags or perforated containers for freshness.,packing-images\0024.jpg
+Fish or Meats,Goat Meat,Above 18 hours,Cooked,Allowed,No,Use breathable bags or perforated containers for freshness.,packing-images\0024.jpg
+Fish or Meats,Goat Meat,3–5 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags and thermal coolers for transport.,packing-images\0005.jpg
+Fish or Meats,Goat Meat,6–8 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags and thermal coolers for transport.,packing-images\0005.jpg
+Fish or Meats,Goat Meat,9–12 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags and thermal coolers for transport.,packing-images\0005.jpg
+Fish or Meats,Goat Meat,13–18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags and thermal coolers for transport.,packing-images\0005.jpg
+Fish or Meats,Goat Meat,Above 18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags and thermal coolers for transport.,packing-images\0005.jpg
+Fish or Meats,Prawns (Dry),3–5 hours,Cooked,Allowed,No,Pack in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Prawns (Dry),6–8 hours,Cooked,Allowed,No,Pack in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Prawns (Dry),9–12 hours,Cooked,Allowed,No,Pack in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Prawns (Dry),13–18 hours,Cooked,Allowed,No,Pack in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Prawns (Dry),Above 18 hours,Cooked,Allowed,No,Pack in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Prawns (Dry),3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fish or Meats,Prawns (Dry),6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Prawns (Dry),9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fish or Meats,Prawns (Dry),13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Prawns (Dry),Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fish or Meats,Dried Sprats (Hal Messo),3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Dried Sprats (Hal Messo),6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Dried Sprats (Hal Messo),9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Dried Sprats (Hal Messo),13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Dried Sprats (Hal Messo),Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Dried Sprats (Hal Messo),3–5 hours,Uncooked,Allowed,No,Must be in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Dried Sprats (Hal Messo),6–8 hours,Uncooked,Allowed,No,Must be in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Dried Sprats (Hal Messo),9–12 hours,Uncooked,Allowed,No,Must be in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Dried Sprats (Hal Messo),13–18 hours,Uncooked,Allowed,No,Must be in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Dried Sprats (Hal Messo),Above 18 hours,Uncooked,Allowed,No,Must be in airtight containers to prevent odor.,packing-images\0006.jpg
+Fish or Meats,Cuttlefish,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Fish or Meats,Cuttlefish,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Fish or Meats,Cuttlefish,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Fish or Meats,Cuttlefish,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Fish or Meats,Cuttlefish,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Fish or Meats,Cuttlefish,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Fish or Meats,Cuttlefish,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Cuttlefish,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Fish or Meats,Cuttlefish,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Fish or Meats,Cuttlefish,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Fish or Meats,Crayfish,3–5 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Crayfish,6–8 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Crayfish,9–12 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Crayfish,13–18 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Crayfish,Above 18 hours,Cooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Fish or Meats,Crayfish,3–5 hours,Uncooked,Restricted,Yes,Use vacuum-sealed packaging and cool storage.,packing-images\0005.jpg
+Fish or Meats,Crayfish,6–8 hours,Uncooked,Restricted,Yes,Use vacuum-sealed packaging and cool storage.,packing-images\0005.jpg
+Fish or Meats,Crayfish,9–12 hours,Uncooked,Restricted,Yes,Use vacuum-sealed packaging and cool storage.,packing-images\0005.jpg
+Fish or Meats,Crayfish,13–18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed packaging and cool storage.,packing-images\0005.jpg
+Fish or Meats,Crayfish,Above 18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed packaging and cool storage.,packing-images\0005.jpg
+Fish or Meats,Maldive Fish Chips,3–5 hours,Not applicable,Allowed,No,Use airtight containers to prevent odors.,packing-images\0006.jpg
+Fish or Meats,Maldive Fish Chips,6–8 hours,Not applicable,Allowed,No,Use airtight containers to prevent odors.,packing-images\0006.jpg
+Fish or Meats,Maldive Fish Chips,9–12 hours,Not applicable,Allowed,No,Use airtight containers to prevent odors.,packing-images\0006.jpg
+Fish or Meats,Maldive Fish Chips,13–18 hours,Not applicable,Allowed,No,Use airtight containers to prevent odors.,packing-images\0006.jpg
+Fish or Meats,Maldive Fish Chips,Above 18 hours,Not applicable,Allowed,No,Use airtight containers to prevent odors.,packing-images\0006.jpg
+Grains,Quinoa,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Quinoa,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Quinoa,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Quinoa,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Quinoa,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Quinoa,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Grains,Quinoa,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Grains,Quinoa,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Grains,Quinoa,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Grains,Quinoa,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Grains,Rice,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Rice,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Rice,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Rice,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Rice,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Rice,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Rice,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Rice,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Rice,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Rice,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Wheat,3–5 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Wheat,6–8 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Wheat,9–12 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Wheat,13–18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Wheat,Above 18 hours,Cooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Wheat,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Grains,Wheat,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Grains,Wheat,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Grains,Wheat,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Grains,Wheat,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Grains,Oats,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Oats,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Oats,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Oats,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Oats,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Oats,3–5 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Oats,6–8 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Oats,9–12 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Oats,13–18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Oats,Above 18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Barley,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Barley,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Barley,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Barley,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Barley,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Barley,3–5 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Barley,6–8 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Barley,9–12 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Barley,13–18 hours,Uncooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Barley,Above 18 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Corn,3–5 hours,Cooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,6–8 hours,Cooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,9–12 hours,Cooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,13–18 hours,Cooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,Above 18 hours,Cooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,3–5 hours,Uncooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,6–8 hours,Uncooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,9–12 hours,Uncooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,13–18 hours,Uncooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Corn,Above 18 hours,Uncooked,Restricted,Yes,"Corn must be in dry, sealed packaging.",packing-images\0025.jpg
+Grains,Buckwheat,3–5 hours,Cooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,6–8 hours,Cooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,9–12 hours,Cooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,13–18 hours,Cooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,Above 18 hours,Cooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,3–5 hours,Uncooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,6–8 hours,Uncooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,9–12 hours,Uncooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,13–18 hours,Uncooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Buckwheat,Above 18 hours,Uncooked,Restricted,Yes,Restricted by import regulations.,packing-images\0026.jpg
+Grains,Pasta,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Pasta,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Pasta,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Pasta,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Pasta,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Pasta,3–5 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Pasta,6–8 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Pasta,9–12 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Pasta,13–18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Pasta,Above 18 hours,Uncooked,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Grains,Millet,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Millet,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Millet,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Millet,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Millet,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Millet,3–5 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Grains,Millet,6–8 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Grains,Millet,9–12 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Grains,Millet,13–18 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Grains,Millet,Above 18 hours,Uncooked,Allowed,No,Requires no special handling.,packing-images\0013.jpg
+Grains,Couscous,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Couscous,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Couscous,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Couscous,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Couscous,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Couscous,3–5 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Grains,Couscous,6–8 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Grains,Couscous,9–12 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Grains,Couscous,13–18 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Grains,Couscous,Above 18 hours,Uncooked,Allowed,No,Must be in original sealed packaging.,packing-images\0010.jpg
+Grains,Lentils,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Lentils,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Lentils,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Lentils,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Lentils,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Lentils,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Lentils,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Lentils,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Lentils,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Lentils,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Buckwheat Flour,3–5 hours,Cooked,Restricted,Yes,Must be vacuum-sealed to prevent contamination.,packing-images\0005.jpg
+Grains,Buckwheat Flour,6–8 hours,Cooked,Restricted,Yes,Must be vacuum-sealed to prevent contamination.,packing-images\0005.jpg
+Grains,Buckwheat Flour,9–12 hours,Cooked,Restricted,Yes,Must be vacuum-sealed to prevent contamination.,packing-images\0005.jpg
+Grains,Buckwheat Flour,13–18 hours,Cooked,Restricted,Yes,Must be vacuum-sealed to prevent contamination.,packing-images\0005.jpg
+Grains,Buckwheat Flour,Above 18 hours,Cooked,Restricted,Yes,Must be vacuum-sealed to prevent contamination.,packing-images\0005.jpg
+Grains,Buckwheat Flour,3–5 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Buckwheat Flour,6–8 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Buckwheat Flour,9–12 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Buckwheat Flour,13–18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Buckwheat Flour,Above 18 hours,Uncooked,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Grains,Rye,3–5 hours,Cooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Grains,Rye,6–8 hours,Cooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Grains,Rye,9–12 hours,Cooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Grains,Rye,13–18 hours,Cooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Grains,Rye,Above 18 hours,Cooked,Restricted,Yes,Must be commercially packed.,packing-images\0008.jpg
+Grains,Rye,3–5 hours,Uncooked,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Grains,Rye,6–8 hours,Uncooked,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Grains,Rye,9–12 hours,Uncooked,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Grains,Rye,13–18 hours,Uncooked,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Grains,Rye,Above 18 hours,Uncooked,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,3–5 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,6–8 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,9–12 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,13–18 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,Above 18 hours,Cooked,Allowed,No,Use resealable airtight containers.,packing-images\0006.jpg
+Grains,Chickpeas,3–5 hours,Uncooked,Allowed,No,Store in sealed bags or containers to maintain quality.,packing-images\0002.jpg
+Grains,Chickpeas,6–8 hours,Uncooked,Allowed,No,Store in sealed bags or containers to maintain quality.,packing-images\0002.jpg
+Grains,Chickpeas,9–12 hours,Uncooked,Allowed,No,Store in sealed bags or containers to maintain quality.,packing-images\0002.jpg
+Grains,Chickpeas,13–18 hours,Uncooked,Allowed,No,Store in sealed bags or containers to maintain quality.,packing-images\0002.jpg
+Grains,Chickpeas,Above 18 hours,Uncooked,Allowed,No,Store in sealed bags or containers to maintain quality.,packing-images\0002.jpg
+Grains,Red Rice,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Red Rice,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Red Rice,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Red Rice,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Red Rice,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Red Rice,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Red Rice,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Red Rice,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Red Rice,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Red Rice,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Grains,Roasted Gram,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Roasted Gram,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Roasted Gram,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Roasted Gram,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Roasted Gram,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Roasted Gram,3–5 hours,Uncooked,Allowed,No,Must be in airtight containers.,packing-images\0006.jpg
+Grains,Roasted Gram,6–8 hours,Uncooked,Allowed,No,Must be in airtight containers.,packing-images\0006.jpg
+Grains,Roasted Gram,9–12 hours,Uncooked,Allowed,No,Must be in airtight containers.,packing-images\0006.jpg
+Grains,Roasted Gram,13–18 hours,Uncooked,Allowed,No,Must be in airtight containers.,packing-images\0006.jpg
+Grains,Roasted Gram,Above 18 hours,Uncooked,Allowed,No,Must be in airtight containers.,packing-images\0006.jpg
+Grains,Black Gram (Urad Dal),3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Black Gram (Urad Dal),6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Black Gram (Urad Dal),9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Black Gram (Urad Dal),13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Black Gram (Urad Dal),Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Black Gram (Urad Dal),3–5 hours,Uncooked,Allowed,No,Must be free from pests and in sealed packages.,packing-images\0026.jpg
+Grains,Black Gram (Urad Dal),6–8 hours,Uncooked,Allowed,No,Must be free from pests and in sealed packages.,packing-images\0026.jpg
+Grains,Black Gram (Urad Dal),9–12 hours,Uncooked,Allowed,No,Must be free from pests and in sealed packages.,packing-images\0026.jpg
+Grains,Black Gram (Urad Dal),13–18 hours,Uncooked,Allowed,No,Must be free from pests and in sealed packages.,packing-images\0026.jpg
+Grains,Black Gram (Urad Dal),Above 18 hours,Uncooked,Allowed,No,Must be free from pests and in sealed packages.,packing-images\0026.jpg
+Grains,Cowpeas (Ma Karal),3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Cowpeas (Ma Karal),6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Cowpeas (Ma Karal),9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Cowpeas (Ma Karal),13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Cowpeas (Ma Karal),Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Cowpeas (Ma Karal),3–5 hours,Uncooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Grains,Cowpeas (Ma Karal),6–8 hours,Uncooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Grains,Cowpeas (Ma Karal),9–12 hours,Uncooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Grains,Cowpeas (Ma Karal),13–18 hours,Uncooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Grains,Cowpeas (Ma Karal),Above 18 hours,Uncooked,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Grains,Fenugreek Seeds,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Grains,Fenugreek Seeds,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Grains,Fenugreek Seeds,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Grains,Fenugreek Seeds,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Grains,Fenugreek Seeds,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Grains,Fenugreek Seeds,3–5 hours,Uncooked,Allowed,No,"Pack in resealable, labeled pouches.",packing-images\0008.jpg
+Grains,Fenugreek Seeds,6–8 hours,Uncooked,Allowed,No,"Pack in resealable, labeled pouches.",packing-images\0008.jpg
+Grains,Fenugreek Seeds,9–12 hours,Uncooked,Allowed,No,"Pack in resealable, labeled pouches.",packing-images\0008.jpg
+Grains,Fenugreek Seeds,13–18 hours,Uncooked,Allowed,No,"Pack in resealable, labeled pouches.",packing-images\0008.jpg
+Grains,Fenugreek Seeds,Above 18 hours,Uncooked,Allowed,No,"Pack in resealable, labeled pouches.",packing-images\0008.jpg
+Snacks,Nuts,3–5 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Snacks,Nuts,6–8 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Snacks,Nuts,9–12 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Snacks,Nuts,13–18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Snacks,Nuts,Above 18 hours,Cooked,Allowed,No,Pack in breathable mesh bags or perforated plastic containers to maintain freshness.,packing-images\0011.jpg
+Snacks,Nuts,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Nuts,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Nuts,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Nuts,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Nuts,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Granola Bars,3–5 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Granola Bars,6–8 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Granola Bars,9–12 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Granola Bars,13–18 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Granola Bars,Above 18 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Cookies,3–5 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Snacks,Cookies,6–8 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Snacks,Cookies,9–12 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Snacks,Cookies,13–18 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Snacks,Cookies,Above 18 hours,Not applicable,Restricted,Yes,Use vacuum-sealed bags to prevent contamination.,packing-images\0005.jpg
+Snacks,Potato Chips,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Potato Chips,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Potato Chips,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Potato Chips,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Potato Chips,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Potato Chips,3–5 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Potato Chips,6–8 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Potato Chips,9–12 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Potato Chips,13–18 hours,Uncooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Potato Chips,Above 18 hours,Uncooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Trail Mix,3–5 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Trail Mix,6–8 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Trail Mix,9–12 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Trail Mix,13–18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Trail Mix,Above 18 hours,Uncooked,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Chocolate,3–5 hours,Not applicable,Allowed,No,Chocolates must not contain fresh ingredients.,packing-images\0027.jpg
+Snacks,Chocolate,6–8 hours,Not applicable,Allowed,No,Chocolates must not contain fresh ingredients.,packing-images\0027.jpg
+Snacks,Chocolate,9–12 hours,Not applicable,Allowed,No,Chocolates must not contain fresh ingredients.,packing-images\0027.jpg
+Snacks,Chocolate,13–18 hours,Not applicable,Allowed,No,Chocolates must not contain fresh ingredients.,packing-images\0027.jpg
+Snacks,Chocolate,Above 18 hours,Not applicable,Allowed,No,Chocolates must not contain fresh ingredients.,packing-images\0027.jpg
+Snacks,Crackers,3–5 hours,Not applicable,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Snacks,Crackers,6–8 hours,Not applicable,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Snacks,Crackers,9–12 hours,Not applicable,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Snacks,Crackers,13–18 hours,Not applicable,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Snacks,Crackers,Above 18 hours,Not applicable,Allowed,No,Can be carried without restrictions.,packing-images\0009.jpg
+Snacks,Biscuits,3–5 hours,Not applicable,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Snacks,Biscuits,6–8 hours,Not applicable,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Snacks,Biscuits,9–12 hours,Not applicable,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Snacks,Biscuits,13–18 hours,Not applicable,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Snacks,Biscuits,Above 18 hours,Not applicable,Allowed,No,Suitable for all destinations.,packing-images\0014.jpg
+Snacks,Sunflower Seeds,3–5 hours,Not applicable,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Snacks,Sunflower Seeds,6–8 hours,Not applicable,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Snacks,Sunflower Seeds,9–12 hours,Not applicable,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Snacks,Sunflower Seeds,13–18 hours,Not applicable,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Snacks,Sunflower Seeds,Above 18 hours,Not applicable,Allowed,No,Must be commercially packed.,packing-images\0008.jpg
+Snacks,Pretzels,3–5 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Pretzels,6–8 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Pretzels,9–12 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Pretzels,13–18 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Pretzels,Above 18 hours,Not applicable,Allowed,No,Pack in sturdy containers to avoid damage.,packing-images\0002.jpg
+Snacks,Popcorn,3–5 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Popcorn,6–8 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Popcorn,9–12 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Popcorn,13–18 hours,Cooked,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Popcorn,Above 18 hours,Cooked,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Popcorn,3–5 hours,Uncooked,Restricted,Yes,"Use insulated coolers with ice packs if needed, but minimal risk of thawing.",packing-images\0003.jpg
+Snacks,Popcorn,6–8 hours,Uncooked,Restricted,Yes,Use insulated coolers with ice packs to keep frozen. Ensure leak-proof packaging.,packing-images\0003.jpg
+Snacks,Popcorn,9–12 hours,Uncooked,Restricted,Yes,Use high-quality insulated coolers with multiple ice packs. Ensure leak-proof packaging to prevent spills.,packing-images\0003.jpg
+Snacks,Popcorn,13–18 hours,Uncooked,Restricted,Yes,Use insulated coolers with sufficient ice packs or dry ice. Ensure airtight and leak-proof packaging.,packing-images\0003.jpg
+Snacks,Popcorn,Above 18 hours,Uncooked,Restricted,Yes,Use heavy-duty insulated coolers with dry ice or gel packs. Ensure complete leak-proof and airtight sealing to maintain frozen state.,packing-images\0003.jpg
+Snacks,Protein Bars,3–5 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Snacks,Protein Bars,6–8 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Snacks,Protein Bars,9–12 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Snacks,Protein Bars,13–18 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Snacks,Protein Bars,Above 18 hours,Not applicable,Restricted,Yes,Use thermal bags to maintain temperature.,packing-images\0004.jpg
+Snacks,Dried Fruits,3–5 hours,Not applicable,Restricted,Yes,Must be in original sealed packaging.,packing-images\0010.jpg
+Snacks,Dried Fruits,6–8 hours,Not applicable,Restricted,Yes,Must be in original sealed packaging.,packing-images\0010.jpg
+Snacks,Dried Fruits,9–12 hours,Not applicable,Restricted,Yes,Must be in original sealed packaging.,packing-images\0010.jpg
+Snacks,Dried Fruits,13–18 hours,Not applicable,Restricted,Yes,Must be in original sealed packaging.,packing-images\0010.jpg
+Snacks,Dried Fruits,Above 18 hours,Not applicable,Restricted,Yes,Must be in original sealed packaging.,packing-images\0010.jpg
+Snacks,Rice Crackers,3–5 hours,Not applicable,Allowed,No,No special handling required.,packing-images\0013.jpg
+Snacks,Rice Crackers,6–8 hours,Not applicable,Allowed,No,No special handling required.,packing-images\0013.jpg
+Snacks,Rice Crackers,9–12 hours,Not applicable,Allowed,No,No special handling required.,packing-images\0013.jpg
+Snacks,Rice Crackers,13–18 hours,Not applicable,Allowed,No,No special handling required.,packing-images\0013.jpg
+Snacks,Rice Crackers,Above 18 hours,Not applicable,Allowed,No,No special handling required.,packing-images\0013.jpg
+Snacks,Roti,3–5 hours,Not applicable,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Snacks,Roti,6–8 hours,Not applicable,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Snacks,Roti,9–12 hours,Not applicable,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Snacks,Roti,13–18 hours,Not applicable,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Snacks,Roti,Above 18 hours,Not applicable,Allowed,No,Pack in airtight containers to maintain freshness.,packing-images\0006.jpg
+Snacks,Wafers,3–5 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping.,packing-images\0001.jpg
+Snacks,Wafers,6–8 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Wafers,9–12 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Wafers,13–18 hours,Not applicable,Allowed,No,"Use resealable bags or food-grade wrapping , plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Wafers,Above 18 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Puffed Rice,3–5 hours,Cooked,Allowed,No,Pack in sturdy containers to prevent crushing.,packing-images\0002.jpg
+Snacks,Puffed Rice,6–8 hours,Cooked,Allowed,No,Pack in sturdy containers to prevent crushing.,packing-images\0002.jpg
+Snacks,Puffed Rice,9–12 hours,Cooked,Allowed,No,Pack in sturdy containers to prevent crushing.,packing-images\0002.jpg
+Snacks,Puffed Rice,13–18 hours,Cooked,Allowed,No,Pack in sturdy containers to prevent crushing.,packing-images\0002.jpg
+Snacks,Puffed Rice,Above 18 hours,Cooked,Allowed,No,Pack in sturdy containers to prevent crushing.,packing-images\0002.jpg
+Snacks,Puffed Rice,3–5 hours,Uncooked,Allowed,No,"Must be in airtight, moisture-resistant packaging.",packing-images\0006.jpg
+Snacks,Puffed Rice,6–8 hours,Uncooked,Allowed,No,"Must be in airtight, moisture-resistant packaging.",packing-images\0006.jpg
+Snacks,Puffed Rice,9–12 hours,Uncooked,Allowed,No,"Must be in airtight, moisture-resistant packaging.",packing-images\0006.jpg
+Snacks,Puffed Rice,13–18 hours,Uncooked,Allowed,No,"Must be in airtight, moisture-resistant packaging.",packing-images\0006.jpg
+Snacks,Puffed Rice,Above 18 hours,Uncooked,Allowed,No,"Must be in airtight, moisture-resistant packaging.",packing-images\0006.jpg
+Snacks,Coconut Sweets,3–5 hours,Not applicable,Allowed,No,Use resealable food-grade wrapping to avoid spillage.,packing-images\0001.jpg
+Snacks,Coconut Sweets,6–8 hours,Not applicable,Allowed,No,Use resealable food-grade wrapping to avoid spillage. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Coconut Sweets,9–12 hours,Not applicable,Allowed,No,Use resealable food-grade wrapping to avoid spillage. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Coconut Sweets,13–18 hours,Not applicable,Allowed,No,"Use resealable food-grade wrapping to avoid spillage, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Coconut Sweets,Above 18 hours,Not applicable,Allowed,No,Use resealable food-grade wrapping to avoid spillage inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Jaggery,3–5 hours,Not applicable,Allowed,No,Use vacuum-sealed packaging to maintain freshness.,packing-images\0005.jpg
+Snacks,Jaggery,6–8 hours,Not applicable,Allowed,No,Use vacuum-sealed packaging to maintain freshness.,packing-images\0005.jpg
+Snacks,Jaggery,9–12 hours,Not applicable,Allowed,No,Use vacuum-sealed packaging to maintain freshness.,packing-images\0005.jpg
+Snacks,Jaggery,13–18 hours,Not applicable,Allowed,No,Use vacuum-sealed packaging to maintain freshness.,packing-images\0005.jpg
+Snacks,Jaggery,Above 18 hours,Not applicable,Allowed,No,Use vacuum-sealed packaging to maintain freshness.,packing-images\0005.jpg
+Snacks,Palmyrah Jaggery,3–5 hours,Not applicable,Allowed,No,Wrap individually and seal in plastic containers.,packing-images\0002.jpg
+Snacks,Palmyrah Jaggery,6–8 hours,Not applicable,Allowed,No,Wrap individually and seal in plastic containers.,packing-images\0002.jpg
+Snacks,Palmyrah Jaggery,9–12 hours,Not applicable,Allowed,No,Wrap individually and seal in plastic containers.,packing-images\0002.jpg
+Snacks,Palmyrah Jaggery,13–18 hours,Not applicable,Allowed,No,Wrap individually and seal in plastic containers.,packing-images\0002.jpg
+Snacks,Palmyrah Jaggery,Above 18 hours,Not applicable,Allowed,No,Wrap individually and seal in plastic containers.,packing-images\0002.jpg
+Snacks,Kithul Treacle,3–5 hours,Not applicable,Allowed,No,Use leak-proof bottles to prevent spills.,packing-images\0028.jpg
+Snacks,Kithul Treacle,6–8 hours,Not applicable,Allowed,No,Use leak-proof bottles to prevent spills.,packing-images\0028.jpg
+Snacks,Kithul Treacle,9–12 hours,Not applicable,Allowed,No,Use leak-proof bottles to prevent spills.,packing-images\0028.jpg
+Snacks,Kithul Treacle,13–18 hours,Not applicable,Allowed,No,Use leak-proof bottles to prevent spills.,packing-images\0028.jpg
+Snacks,Kithul Treacle,Above 18 hours,Not applicable,Allowed,No,Use leak-proof bottles to prevent spills.,packing-images\0028.jpg
+Snacks,Coconut Toffee,3–5 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Coconut Toffee,6–8 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Coconut Toffee,9–12 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Coconut Toffee,13–18 hours,Not applicable,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Coconut Toffee,Above 18 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Murukku,3–5 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Murukku,6–8 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Murukku,9–12 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Murukku,13–18 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Murukku,Above 18 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Rulang Aluwa,3–5 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper.,packing-images\0001.jpg
+Snacks,Rulang Aluwa,6–8 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Rulang Aluwa,9–12 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Rulang Aluwa,13–18 hours,Not applicable,Allowed,No,"Use resealable bags or food-grade wrapping paper, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Rulang Aluwa,Above 18 hours,Not applicable,Allowed,No,Use resealable bags or food-grade wrapping paper inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Kokis,3–5 hours,Not applicable,Allowed,No,Must be kept in sturdy packaging to avoid breaking.,packing-images\0002.jpg
+Snacks,Kokis,6–8 hours,Not applicable,Allowed,No,Must be kept in sturdy packaging to avoid breaking.,packing-images\0002.jpg
+Snacks,Kokis,9–12 hours,Not applicable,Allowed,No,Must be kept in sturdy packaging to avoid breaking.,packing-images\0002.jpg
+Snacks,Kokis,13–18 hours,Not applicable,Allowed,No,Must be kept in sturdy packaging to avoid breaking.,packing-images\0002.jpg
+Snacks,Kokis,Above 18 hours,Not applicable,Allowed,No,Must be kept in sturdy packaging to avoid breaking.,packing-images\0002.jpg
+Snacks,Kalu Dodol,3–5 hours,Not applicable,Allowed,No,"Pack in sealed, food-grade wrapping to avoid spills.",packing-images\0001.jpg
+Snacks,Kalu Dodol,6–8 hours,Not applicable,Allowed,No,"Pack in sealed, food-grade wrapping to avoid spills. (Ensure airtight sealing for freshness.)",packing-images\0001.jpg
+Snacks,Kalu Dodol,9–12 hours,Not applicable,Allowed,No,"Pack in sealed, food-grade wrapping to avoid spills. (Consider extra wrapping or a moisture-proof bag.)",packing-images\0001.jpg
+Snacks,Kalu Dodol,13–18 hours,Not applicable,Allowed,No,"Pack in sealed, food-grade wrapping to avoid spills, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Kalu Dodol,Above 18 hours,Not applicable,Allowed,No,"Pack in sealed, food-grade wrapping to avoid spills inside a rigid container (to prevent crushing or exposure to moisture over long travel times).",packing-images\0001.jpg
+Snacks,Aggala (Jaggery Balls),3–5 hours,Not applicable,Allowed,No,Use resealable bags to maintain freshness.,packing-images\0001.jpg
+Snacks,Aggala (Jaggery Balls),6–8 hours,Not applicable,Allowed,No,Use resealable bags to maintain freshness. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Aggala (Jaggery Balls),9–12 hours,Not applicable,Allowed,No,Use resealable bags to maintain freshness. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Aggala (Jaggery Balls),13–18 hours,Not applicable,Allowed,No,"Use resealable bags to maintain freshness, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Aggala (Jaggery Balls),Above 18 hours,Not applicable,Allowed,No,Use resealable bags to maintain freshness inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Banana Chips,3–5 hours,Not applicable,Allowed,No,Pack in airtight containers to prevent damage.,packing-images\0006.jpg
+Snacks,Banana Chips,6–8 hours,Not applicable,Allowed,No,Pack in airtight containers to prevent damage.,packing-images\0006.jpg
+Snacks,Banana Chips,9–12 hours,Not applicable,Allowed,No,Pack in airtight containers to prevent damage.,packing-images\0006.jpg
+Snacks,Banana Chips,13–18 hours,Not applicable,Allowed,No,Pack in airtight containers to prevent damage.,packing-images\0006.jpg
+Snacks,Banana Chips,Above 18 hours,Not applicable,Allowed,No,Pack in airtight containers to prevent damage.,packing-images\0006.jpg
+Snacks,Dried Mango Strips,3–5 hours,Not applicable,Allowed,No,Pack in resealable food-grade bags.,packing-images\0001.jpg
+Snacks,Dried Mango Strips,6–8 hours,Not applicable,Allowed,No,Pack in resealable food-grade bags. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Dried Mango Strips,9–12 hours,Not applicable,Allowed,No,Pack in resealable food-grade bags. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Dried Mango Strips,13–18 hours,Not applicable,Allowed,No,"Pack in resealable food-grade bags, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Dried Mango Strips,Above 18 hours,Not applicable,Allowed,No,Pack in resealable food-grade bags inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Snacks,Dried Jackfruit Chips,3–5 hours,Not applicable,Allowed,No,Store in sealed bags with oxygen absorbers.,packing-images\0008.jpg
+Snacks,Dried Jackfruit Chips,6–8 hours,Not applicable,Allowed,No,Store in sealed bags with oxygen absorbers.,packing-images\0008.jpg
+Snacks,Dried Jackfruit Chips,9–12 hours,Not applicable,Allowed,No,Store in sealed bags with oxygen absorbers.,packing-images\0008.jpg
+Snacks,Dried Jackfruit Chips,13–18 hours,Not applicable,Allowed,No,Store in sealed bags with oxygen absorbers.,packing-images\0008.jpg
+Snacks,Dried Jackfruit Chips,Above 18 hours,Not applicable,Allowed,No,Store in sealed bags with oxygen absorbers.,packing-images\0008.jpg
+Snacks,Papadam,3–5 hours,Not applicable,Allowed,No,"Pack in sturdy, moisture-resistant packaging.",packing-images\0008.jpg
+Snacks,Papadam,6–8 hours,Not applicable,Allowed,No,"Pack in sturdy, moisture-resistant packaging.",packing-images\0008.jpg
+Snacks,Papadam,9–12 hours,Not applicable,Allowed,No,"Pack in sturdy, moisture-resistant packaging.",packing-images\0008.jpg
+Snacks,Papadam,13–18 hours,Not applicable,Allowed,No,"Pack in sturdy, moisture-resistant packaging.",packing-images\0008.jpg
+Snacks,Papadam,Above 18 hours,Not applicable,Allowed,No,"Pack in sturdy, moisture-resistant packaging.",packing-images\0008.jpg
+Snacks,Sesame Rolls,3–5 hours,Not applicable,Allowed,No,Wrap in food-grade plastic or resealable bags.,packing-images\0001.jpg
+Snacks,Sesame Rolls,6–8 hours,Not applicable,Allowed,No,Wrap in food-grade plastic or resealable bags. (Ensure airtight sealing for freshness.),packing-images\0001.jpg
+Snacks,Sesame Rolls,9–12 hours,Not applicable,Allowed,No,Wrap in food-grade plastic or resealable bags. (Consider extra wrapping or a moisture-proof bag.),packing-images\0001.jpg
+Snacks,Sesame Rolls,13–18 hours,Not applicable,Allowed,No,"Wrap in food-grade plastic or resealable bags, plus an additional protective layer (e.g., double wrapping or an extra sealed bag to prevent contamination).",packing-images\0001.jpg
+Snacks,Sesame Rolls,Above 18 hours,Not applicable,Allowed,No,Wrap in food-grade plastic or resealable bags inside a rigid container (to prevent crushing or exposure to moisture over long travel times).,packing-images\0001.jpg
+Others,Lunu Miris (Chili Paste),3–5 hours,Not applicable,Allowed,No,Must be in sealed jars to avoid leaks.,packing-images\0018.jpg
+Others,Lunu Miris (Chili Paste),6–8 hours,Not applicable,Allowed,No,Must be in sealed jars to avoid leaks.,packing-images\0018.jpg
+Others,Lunu Miris (Chili Paste),9–12 hours,Not applicable,Allowed,No,Must be in sealed jars to avoid leaks.,packing-images\0018.jpg
+Others,Lunu Miris (Chili Paste),13–18 hours,Not applicable,Allowed,No,Must be in sealed jars to avoid leaks.,packing-images\0018.jpg
+Others,Lunu Miris (Chili Paste),Above 18 hours,Not applicable,Allowed,No,Must be in sealed jars to avoid leaks.,packing-images\0018.jpg
+Others,Pol Sambol (Desiccated Coconut Mix),3–5 hours,Not applicable,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Others,Pol Sambol (Desiccated Coconut Mix),6–8 hours,Not applicable,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Others,Pol Sambol (Desiccated Coconut Mix),9–12 hours,Not applicable,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Others,Pol Sambol (Desiccated Coconut Mix),13–18 hours,Not applicable,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Others,Pol Sambol (Desiccated Coconut Mix),Above 18 hours,Not applicable,Allowed,No,Store in airtight containers.,packing-images\0006.jpg
+Others,Seeni Sambol (Caramelized Onion Relish),3–5 hours,Not applicable,Allowed,No,Pack in leak-proof jars or containers.,packing-images\0018.jpg
+Others,Seeni Sambol (Caramelized Onion Relish),6–8 hours,Not applicable,Allowed,No,Pack in leak-proof jars or containers.,packing-images\0018.jpg
+Others,Seeni Sambol (Caramelized Onion Relish),9–12 hours,Not applicable,Allowed,No,Pack in leak-proof jars or containers.,packing-images\0018.jpg
+Others,Seeni Sambol (Caramelized Onion Relish),13–18 hours,Not applicable,Allowed,No,Pack in leak-proof jars or containers.,packing-images\0018.jpg
+Others,Seeni Sambol (Caramelized Onion Relish),Above 18 hours,Not applicable,Allowed,No,Pack in leak-proof jars or containers.,packing-images\0018.jpg
+Others,Curry Powder,3–5 hours,Not applicable,Allowed,No,Use moisture-proof bags or containers.,packing-images\0010.jpg
+Others,Curry Powder,6–8 hours,Not applicable,Allowed,No,Use moisture-proof bags or containers.,packing-images\0010.jpg
+Others,Curry Powder,9–12 hours,Not applicable,Allowed,No,Use moisture-proof bags or containers.,packing-images\0010.jpg
+Others,Curry Powder,13–18 hours,Not applicable,Allowed,No,Use moisture-proof bags or containers.,packing-images\0010.jpg
+Others,Curry Powder,Above 18 hours,Not applicable,Allowed,No,Use moisture-proof bags or containers.,packing-images\0010.jpg
+Others,Roasted Curry Powder,3–5 hours,Not applicable,Allowed,No,Use original sealed packaging to preserve aroma.,packing-images\0010.jpg
+Others,Roasted Curry Powder,6–8 hours,Not applicable,Allowed,No,Use original sealed packaging to preserve aroma.,packing-images\0010.jpg
+Others,Roasted Curry Powder,9–12 hours,Not applicable,Allowed,No,Use original sealed packaging to preserve aroma.,packing-images\0010.jpg
+Others,Roasted Curry Powder,13–18 hours,Not applicable,Allowed,No,Use original sealed packaging to preserve aroma.,packing-images\0010.jpg
+Others,Roasted Curry Powder,Above 18 hours,Not applicable,Allowed,No,Use original sealed packaging to preserve aroma.,packing-images\0010.jpg
+Others,Ceylon Tea (Loose-Leaf or Bags),3–5 hours,Not applicable,Allowed,No,Use original packaging or resealable pouches.,packing-images\0010.jpg
+Others,Ceylon Tea (Loose-Leaf or Bags),6–8 hours,Not applicable,Allowed,No,Use original packaging or resealable pouches.,packing-images\0010.jpg
+Others,Ceylon Tea (Loose-Leaf or Bags),9–12 hours,Not applicable,Allowed,No,Use original packaging or resealable pouches.,packing-images\0010.jpg
+Others,Ceylon Tea (Loose-Leaf or Bags),13–18 hours,Not applicable,Allowed,No,Use original packaging or resealable pouches.,packing-images\0010.jpg
+Others,Ceylon Tea (Loose-Leaf or Bags),Above 18 hours,Not applicable,Allowed,No,Use original packaging or resealable pouches.,packing-images\0010.jpg
+Others,"Herbal Teas (e.g., Gotu Kola, Belimal)",3–5 hours,Not applicable,Allowed,No,Pack in airtight bags to maintain flavor.,packing-images\0020.jpg
+Others,"Herbal Teas (e.g., Gotu Kola, Belimal)",6–8 hours,Not applicable,Allowed,No,Pack in airtight bags to maintain flavor.,packing-images\0020.jpg
+Others,"Herbal Teas (e.g., Gotu Kola, Belimal)",9–12 hours,Not applicable,Allowed,No,Pack in airtight bags to maintain flavor.,packing-images\0020.jpg
+Others,"Herbal Teas (e.g., Gotu Kola, Belimal)",13–18 hours,Not applicable,Allowed,No,Pack in airtight bags to maintain flavor.,packing-images\0020.jpg
+Others,"Herbal Teas (e.g., Gotu Kola, Belimal)",Above 18 hours,Not applicable,Allowed,No,Pack in airtight bags to maintain flavor.,packing-images\0020.jpg
+Others,Fresh King Coconut Water,3–5 hours,Not applicable,Restricted,Yes,Use sealed containers and refrigerate before travel.,packing-images\0002.jpg
+Others,Fresh King Coconut Water,6–8 hours,Not applicable,Restricted,Yes,Use sealed containers and refrigerate before travel.,packing-images\0002.jpg
+Others,Fresh King Coconut Water,9–12 hours,Not applicable,Restricted,Yes,Use sealed containers and refrigerate before travel.,packing-images\0002.jpg
+Others,Fresh King Coconut Water,13–18 hours,Not applicable,Restricted,Yes,Use sealed containers and refrigerate before travel.,packing-images\0002.jpg
+Others,Fresh King Coconut Water,Above 18 hours,Not applicable,Restricted,Yes,Use sealed containers and refrigerate before travel.,packing-images\0002.jpg
+Others,Ceylon Cinnamon Sticks,3–5 hours,Not applicable,Allowed,No,Pack in sealed plastic bags or spice jars.,packing-images\0018.jpg
+Others,Ceylon Cinnamon Sticks,6–8 hours,Not applicable,Allowed,No,Pack in sealed plastic bags or spice jars.,packing-images\0018.jpg
+Others,Ceylon Cinnamon Sticks,9–12 hours,Not applicable,Allowed,No,Pack in sealed plastic bags or spice jars.,packing-images\0018.jpg
+Others,Ceylon Cinnamon Sticks,13–18 hours,Not applicable,Allowed,No,Pack in sealed plastic bags or spice jars.,packing-images\0018.jpg
+Others,Ceylon Cinnamon Sticks,Above 18 hours,Not applicable,Allowed,No,Pack in sealed plastic bags or spice jars.,packing-images\0018.jpg
+Others,Dried Red Chilies,3–5 hours,Not applicable,Allowed,No,"Pack in sealed, odor-proof containers.",packing-images\0002.jpg
+Others,Dried Red Chilies,6–8 hours,Not applicable,Allowed,No,"Pack in sealed, odor-proof containers.",packing-images\0002.jpg
+Others,Dried Red Chilies,9–12 hours,Not applicable,Allowed,No,"Pack in sealed, odor-proof containers.",packing-images\0002.jpg
+Others,Dried Red Chilies,13–18 hours,Not applicable,Allowed,No,"Pack in sealed, odor-proof containers.",packing-images\0002.jpg
+Others,Dried Red Chilies,Above 18 hours,Not applicable,Allowed,No,"Pack in sealed, odor-proof containers.",packing-images\0002.jpg
+Others,Batu Moju,3–5 hours,Not applicable,Allowed,No,Use airtight glass jars to prevent leakage and ensure freshness. Clearly label the contents.,packing-images\0018.jpg
+Others,Batu Moju,6–8 hours,Not applicable,Allowed,No,Use airtight glass jars to prevent leakage and ensure freshness. Clearly label the contents.,packing-images\0018.jpg
+Others,Batu Moju,9–12 hours,Not applicable,Allowed,No,Use airtight glass jars to prevent leakage and ensure freshness. Clearly label the contents.,packing-images\0018.jpg
+Others,Batu Moju,13–18 hours,Not applicable,Allowed,No,Use airtight glass jars to prevent leakage and ensure freshness. Clearly label the contents.,packing-images\0018.jpg
+Others,Batu Moju,Above 18 hours,Not applicable,Allowed,No,Use airtight glass jars to prevent leakage and ensure freshness. Clearly label the contents.,packing-images\0018.jpg
+Others,Tea (Loose Leaves),3–5 hours,Not applicable,Allowed,No,Store in resealable bags or airtight tins.,packing-images\0020.jpg
+Others,Tea (Loose Leaves),6–8 hours,Not applicable,Allowed,No,Store in resealable bags or airtight tins.,packing-images\0020.jpg
+Others,Tea (Loose Leaves),9–12 hours,Not applicable,Allowed,No,Store in resealable bags or airtight tins.,packing-images\0020.jpg
+Others,Tea (Loose Leaves),13–18 hours,Not applicable,Allowed,No,Store in resealable bags or airtight tins.,packing-images\0020.jpg
+Others,Tea (Loose Leaves),Above 18 hours,Not applicable,Allowed,No,Store in resealable bags or airtight tins.,packing-images\0020.jpg
+Others,Ambul Thiyal,3–5 hours,Not applicable,Restricted,Yes,Vacuum-pack to retain freshness; check restrictions.,packing-images\0005.jpg
+Others,Ambul Thiyal,6–8 hours,Not applicable,Restricted,Yes,Vacuum-pack to retain freshness; check restrictions.,packing-images\0005.jpg
+Others,Ambul Thiyal,9–12 hours,Not applicable,Restricted,Yes,Vacuum-pack to retain freshness; check restrictions.,packing-images\0005.jpg
+Others,Ambul Thiyal,13–18 hours,Not applicable,Restricted,Yes,Vacuum-pack to retain freshness; check restrictions.,packing-images\0005.jpg
+Others,Ambul Thiyal,Above 18 hours,Not applicable,Restricted,Yes,Vacuum-pack to retain freshness; check restrictions.,packing-images\0005.jpg
+Others,Mango Pickle,3–5 hours,Not applicable,Allowed,No,Use leak-proof jars; label with contents clearly.,packing-images\0018.jpg
+Others,Mango Pickle,6–8 hours,Not applicable,Allowed,No,Use leak-proof jars; label with contents clearly.,packing-images\0018.jpg
+Others,Mango Pickle,9–12 hours,Not applicable,Allowed,No,Use leak-proof jars; label with contents clearly.,packing-images\0018.jpg
+Others,Mango Pickle,13–18 hours,Not applicable,Allowed,No,Use leak-proof jars; label with contents clearly.,packing-images\0018.jpg
+Others,Mango Pickle,Above 18 hours,Not applicable,Allowed,No,Use leak-proof jars; label with contents clearly.,packing-images\0018.jpg
+Others,Lunu Dehi,3–5 hours,Not applicable,Allowed,No,Use small jars with spill-proof lids.,packing-images\0018.jpg
+Others,Lunu Dehi,6–8 hours,Not applicable,Allowed,No,Use small jars with spill-proof lids.,packing-images\0018.jpg
+Others,Lunu Dehi,9–12 hours,Not applicable,Allowed,No,Use small jars with spill-proof lids.,packing-images\0018.jpg
+Others,Lunu Dehi,13–18 hours,Not applicable,Allowed,No,Use small jars with spill-proof lids.,packing-images\0018.jpg
+Others,Lunu Dehi,Above 18 hours,Not applicable,Allowed,No,Use small jars with spill-proof lids.,packing-images\0018.jpg
+Others,Katta Sambol (Chili Paste),3–5 hours,Not applicable,Restricted,Yes,Vacuum-seal to prevent spillage; restricted items.,packing-images\0005.jpg
+Others,Katta Sambol (Chili Paste),6–8 hours,Not applicable,Restricted,Yes,Vacuum-seal to prevent spillage; restricted items.,packing-images\0005.jpg
+Others,Katta Sambol (Chili Paste),9–12 hours,Not applicable,Restricted,Yes,Vacuum-seal to prevent spillage; restricted items.,packing-images\0005.jpg
+Others,Katta Sambol (Chili Paste),13–18 hours,Not applicable,Restricted,Yes,Vacuum-seal to prevent spillage; restricted items.,packing-images\0005.jpg
+Others,Katta Sambol (Chili Paste),Above 18 hours,Not applicable,Restricted,Yes,Vacuum-seal to prevent spillage; restricted items.,packing-images\0005.jpg
+Others,Wandu Appa,3–5 hours,Not applicable,Restricted,Yes,Wrap in wax paper; prohibited in some countries.,packing-images\0029.jpg
+Others,Wandu Appa,6–8 hours,Not applicable,Restricted,Yes,Wrap in wax paper; prohibited in some countries.,packing-images\0029.jpg
+Others,Wandu Appa,9–12 hours,Not applicable,Restricted,Yes,Wrap in wax paper; prohibited in some countries.,packing-images\0029.jpg
+Others,Wandu Appa,13–18 hours,Not applicable,Restricted,Yes,Wrap in wax paper; prohibited in some countries.,packing-images\0029.jpg
+Others,Wandu Appa,Above 18 hours,Not applicable,Restricted,Yes,Wrap in wax paper; prohibited in some countries.,packing-images\0029.jpg
+Others,Gotu Kola Powder,3–5 hours,Not applicable,Allowed,No,Use sealed containers with proper labeling.,packing-images\0002.jpg
+Others,Gotu Kola Powder,6–8 hours,Not applicable,Allowed,No,Use sealed containers with proper labeling.,packing-images\0002.jpg
+Others,Gotu Kola Powder,9–12 hours,Not applicable,Allowed,No,Use sealed containers with proper labeling.,packing-images\0002.jpg
+Others,Gotu Kola Powder,13–18 hours,Not applicable,Allowed,No,Use sealed containers with proper labeling.,packing-images\0002.jpg
+Others,Gotu Kola Powder,Above 18 hours,Not applicable,Allowed,No,Use sealed containers with proper labeling.,packing-images\0002.jpg
+Others,Polos Ambula (Jackfruit Curry Paste),3–5 hours,Not applicable,Allowed,No,Pack in vacuum-sealed pouches or airtight containers. Clearly label the item with ingredients.,packing-images\0006.jpg
+Others,Polos Ambula (Jackfruit Curry Paste),6–8 hours,Not applicable,Allowed,No,Pack in vacuum-sealed pouches or airtight containers. Clearly label the item with ingredients.,packing-images\0006.jpg
+Others,Polos Ambula (Jackfruit Curry Paste),9–12 hours,Not applicable,Allowed,No,Pack in vacuum-sealed pouches or airtight containers. Clearly label the item with ingredients.,packing-images\0006.jpg
+Others,Polos Ambula (Jackfruit Curry Paste),13–18 hours,Not applicable,Allowed,No,Pack in vacuum-sealed pouches or airtight containers. Clearly label the item with ingredients.,packing-images\0006.jpg
+Others,Polos Ambula (Jackfruit Curry Paste),Above 18 hours,Not applicable,Allowed,No,Pack in vacuum-sealed pouches or airtight containers. Clearly label the item with ingredients.,packing-images\0006.jpg
+Others,Wood Apple Jam,3–5 hours,Not applicable,Allowed,No,Seal in glass jars with tamper-proof lids. Wrap jars in bubble wrap for safety during transit.,packing-images\0018.jpg
+Others,Wood Apple Jam,6–8 hours,Not applicable,Allowed,No,Seal in glass jars with tamper-proof lids. Wrap jars in bubble wrap for safety during transit.,packing-images\0018.jpg
+Others,Wood Apple Jam,9–12 hours,Not applicable,Allowed,No,Seal in glass jars with tamper-proof lids. Wrap jars in bubble wrap for safety during transit.,packing-images\0018.jpg
+Others,Wood Apple Jam,13–18 hours,Not applicable,Allowed,No,Seal in glass jars with tamper-proof lids. Wrap jars in bubble wrap for safety during transit.,packing-images\0018.jpg
+Others,Wood Apple Jam,Above 18 hours,Not applicable,Allowed,No,Seal in glass jars with tamper-proof lids. Wrap jars in bubble wrap for safety during transit.,packing-images\0018.jpg

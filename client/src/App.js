@@ -7,6 +7,8 @@ import Review from "./components/Review";
 import Contact from "./components/Contact";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
+import UserHome from "./components/UserHome";
+import AdminHome from "./components/AdminHome";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
+        <Route path="/userhome" element={<UserHome />} />
+        <Route path="/adminhome" element={<AdminHome />} />
       </Routes>
     </div>
   );
