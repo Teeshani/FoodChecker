@@ -9,10 +9,9 @@ function Signup() {
     name: "",
     email: "",
     password: "",
-    userType: "", 
+    userType: "User", // Default to "User"
   });
 
-  const [secretKey, setSecretKey] = useState("");
   const navigate = useNavigate();
 
   const handleChange = (e) => {
@@ -23,26 +22,12 @@ function Signup() {
     }));
   };
 
-  const handleUserTypeChange = (e) => {
-    const value = e.target.value;
-    setSignupInfo((prev) => ({
-      ...prev,
-      userType: value, 
-    }));
-  };
-
   const handleSignup = async (e) => {
     e.preventDefault();
 
-    // Check for Admin validation
-    if (signupInfo.userType === "Admin" && secretKey !== "MST") {
-      alert("Invalid Admin");
-      return;
-    }
-
     // Validate required fields
-    const { name, email, password, userType } = signupInfo;
-    if (!name || !email || !password || !userType) {
+    const { name, email, password } = signupInfo;
+    if (!name || !email || !password) {
       return handleError("All fields are required.");
     }
 
@@ -81,41 +66,6 @@ function Signup() {
     <div className="signup-body">
       <div className="signup-content">
         <h1>Signup</h1>
-
-        <div className="user-type-container">      
-  <label>
-  Register As
-    <input
-      type="radio"
-      name="userType"
-      value="User"
-      onChange={handleUserTypeChange}
-    />
-    User
-  </label>
-  <label>
-    <input
-      type="radio"
-      name="userType"
-      value="Admin"
-      onChange={handleUserTypeChange}
-    />
-    Admin
-  </label>
-</div>
-
-        {signupInfo.userType === "Admin" && (
-          <div>
-            <label htmlFor="secretKey">Secret Key</label>
-            <input
-              type="text"
-              className="form-control"
-              placeholder="Enter the secret key..."
-              onChange={(e) => setSecretKey(e.target.value)}
-            />
-          </div>
-        )}
-
         <form onSubmit={handleSignup}>
           <div>
             <label htmlFor="name">Name</label>
@@ -163,5 +113,4 @@ function Signup() {
 }
 
 export default Signup;
-
 

@@ -1,93 +1,102 @@
-import React, { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import { ToastContainer } from 'react-toastify';
+import React, { useState } from "react";
+import { Link, useNavigate } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
 import "./Login.css";
-import { handleError, handleSuccess } from './utils';
-
+import { handleError, handleSuccess } from "./utils";
 
 function Login() {
   const [loginInfo, setLoginInfo] = useState({
-    email: '',
-    password: ''
+    email: "",
+    password: "",
   });
 
   const navigate = useNavigate();
+
   const handleChange = (e) => {
     const { name, value } = e.target;
-    const copyLoginInfo = { ...loginInfo };
-    copyLoginInfo[name] = value;
-    setLoginInfo(copyLoginInfo);
+    setLoginInfo((prev) => ({ ...prev, [name]: value }));
   };
 
   const handleLogin = async (e) => {
     e.preventDefault();
     const { email, password } = loginInfo;
+
     if (!email || !password) {
-        return handleError('email and password are required')
-  }
-  try {
-    const url = `http://localhost:8080/auth/login`;
-    const response = await fetch(url, {
+      return handleError("Email and password are required");
+    }
+
+    try {
+      const url = `http://localhost:8080/auth/login`;
+      const response = await fetch(url, {
         method: "POST",
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(loginInfo)
-    });
-    const result = await response.json();
-    const { success, message, error } = result;
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(loginInfo),
+      });
 
-     if(success){
+      const result = await response.json();
+      console.log("Login Response:", result);
+
+      if (!result || typeof result !== "object") {
+        return handleError("Invalid server response.");
+      }
+
+      const { success, message, error, userType, token } = result;
+      console.log("userType from backend:", userType); // Log the userType
+
+      if (success && token) {
         handleSuccess(message);
+        localStorage.setItem("token", token);
+        localStorage.setItem("userType", userType); // Store user type
+
         setTimeout(() => {
-            navigate('/')
-        }, 1000)
-    }else if(error){
-      const details = error?.details[0].message;
-      handleError(details);
-    }else if (!success) {
-      handleError(message);
-    }
-    console.log(result);
+          if (userType.trim() === "Admin") { // Ensure correct comparison
+            navigate("/adminhome"); // Redirect to Admin Home
+          } else {
+            navigate("/userhome"); // Redirect to User Home
+          }
+        }, 1000);
+      } else {
+        handleError(error?.details?.[0]?.message || message || "Login failed");
+      }
     } catch (err) {
-        handleError(err);
+      handleError("An error occurred. Please try again.");
     }
+  };
 
-
-}
   return (
-    <div className='login-body'>  
-      <div className='login-content'>
+    <div className="login-body">
+      <div className="login-content">
         <h1>Login</h1>
         <form onSubmit={handleLogin}>
-          
-         <div>
-            <label htmlFor='email'>Email</label>
+          <div>
+            <label htmlFor="email">Email</label>
             <input
               onChange={handleChange}
-              type='email'
-              name='email'
-              placeholder='Enter your email...'
+              type="email"
+              name="email"
+              placeholder="Enter your email..."
               value={loginInfo.email}
             />
           </div>
 
           <div>
-            <label htmlFor='password'>Password</label>
+            <label htmlFor="password">Password</label>
             <input
               onChange={handleChange}
-              type='password'
-              name='password'
-              placeholder='Enter your password...'
+              type="password"
+              name="password"
+              placeholder="Enter your password..."
               value={loginInfo.password}
             />
           </div>
 
-          <button type='submit'>Login</button>
+          <button type="submit">Login</button>
           <span className="login-footer">
-          Does't have an account? <Link to="/signup" className="login-link">Signup</Link>
+            Don't have an account?{" "}
+            <Link to="/signup" className="login-link">
+              Signup
+            </Link>
           </span>
-
         </form>
         <ToastContainer />
       </div>
@@ -96,3 +105,4 @@ function Login() {
 }
 
 export default Login;
+

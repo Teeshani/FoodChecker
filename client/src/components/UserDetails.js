@@ -9,6 +9,9 @@ export default function UserDetails() {
 
   useEffect(() => {
     const token = localStorage.getItem("token");
+    const userType = localStorage.getItem("userType");
+
+    console.log("Stored userType:", userType); // Debugging
 
     if (!token) {
       alert("Unauthorized access. Please login.");
@@ -16,7 +19,7 @@ export default function UserDetails() {
       return;
     }
 
-    fetch("http://localhost:5000/userData", {
+    fetch("http://localhost:8080/userData", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -25,7 +28,7 @@ export default function UserDetails() {
     })
       .then((res) => res.json())
       .then((data) => {
-        console.log("Fetched user data:", data); // Debugging
+        console.log("Fetched user data:", data);
 
         if (!data || typeof data !== "object" || !data.data) {
           alert("Invalid response from server.");
@@ -35,13 +38,13 @@ export default function UserDetails() {
         }
 
         if (data.data === "token expired") {
-          alert("Session expired. Please login again.");
+          alert("Session expired, please login again.");
           localStorage.clear();
           navigate("/login");
           return;
         }
 
-        setUserData(data.data); // Ensure `userData` is properly set
+        setUserData(data.data);
         localStorage.setItem("userType", data.data.userType);
       })
       .catch((error) => {
@@ -54,12 +57,16 @@ export default function UserDetails() {
 
   if (!userData) return <h1>Loading...</h1>;
 
-  return userData.userType === "Admin" ? (
+  console.log("Final userType for navigation:", userData.userType); // Debugging
+
+  return userData.userType.trim() === "Admin" ? (
     <AdminHome userData={userData} />
   ) : (
     <UserHome userData={userData} />
   );
 }
+
+
 
 
 

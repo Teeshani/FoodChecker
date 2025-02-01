@@ -9,6 +9,7 @@ import Login from "./components/Login";
 import Signup from "./components/Signup";
 import UserHome from "./components/UserHome";
 import AdminHome from "./components/AdminHome";
+import FoodComplianceForm from "./components/FoodComplianceForm";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/signup" element={<Signup />} />
         <Route path="/userhome" element={<UserHome />} />
         <Route path="/adminhome" element={<AdminHome />} />
+        <Route path="/foodcomplianceform" element={<FoodComplianceForm />} />
       </Routes>
     </div>
   );

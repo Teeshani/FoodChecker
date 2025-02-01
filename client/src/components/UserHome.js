@@ -1,28 +1,20 @@
-import React from "react";
-import "./UserHome.css"; 
+import React from 'react'
+import './UserHome.css'
 
-export default function UserHome({ userData }) {
-  console.log("User data received:", userData); // Debugging
-
-  if (!userData) {
-    return <h1>Loading...</h1>; // Prevent errors before data loads
-  }
-
+const UserHome = () => {
   return (
-    <div className="userhome-container">
-      <div className="userhome-card">
-        <h1>Welcome, {userData.name ? userData.name : "User"}!</h1>
-        <p>Email: {userData.email}</p>
+    
+      <div className="userhome-container">
+        <h1>Welcome UserHome</h1>
+        
         <button className="logout-button" onClick={() => { 
           localStorage.clear();
-          window.location.href = "./login"; 
+          window.location.href = "./"; 
         }}>Log Out</button>
       </div>
-    </div>
+    
   );
+
 }
 
-
-
-    
-  
+export default UserHome

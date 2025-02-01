@@ -1,24 +1,20 @@
-import React from "react";
+import React from 'react'
+import './AdminHome.css'
 
-export default function AdminHome({ userData }) {
-  const logOut = () => {
-    localStorage.clear();
-    window.location.href = "./login";
-  };
-
+const AdminHome = () => {
   return (
-    <div className="auth-wrapper">
-      <div className="auth-inner">
-        <div>
-          <h1>Welcome Admin</h1>
-          <p>Name: {userData.fname}</p>
-          <p>Email: {userData.email}</p>
-          <br />
-          <button onClick={logOut} className="btn btn-primary">
-            Log Out
-          </button>
-        </div>
+    
+      <div className="adminhome-container">
+        <h1>Welcome AdminHome</h1>
+        
+        <button className="logout-button" onClick={() => { 
+          localStorage.clear();
+          window.location.href = "./"; 
+        }}>Log Out</button>
       </div>
-    </div>
+    
   );
+
 }
+
+export default AdminHome
