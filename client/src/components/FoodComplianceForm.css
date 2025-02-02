@@ -1,7 +1,90 @@
+/* Styling for the form container */
 .form-container {
-    background-color: white;
-}
-
-..form-container h2{
-    color: aliceblue;
-}
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styling */
+  .form-container h2 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Label styling */
+  label {
+    display: block;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 8px;
+    margin-top: 15px;
+  }
+  
+  /* Select box styling */
+  select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    transition: border-color 0.3s;
+  }
+  
+  select:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  /* Button styling */
+  button {
+    width: 100%;
+    padding: 12px;
+    background-color: #28a745;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 600px) {
+    .form-container {
+      padding: 15px;
+      margin: 10px;
+    }
+  
+    .form-container h2 {
+      font-size: 20px;
+    }
+  
+    label {
+      font-size: 14px;
+    }
+  
+    select {
+      font-size: 14px;
+      padding: 8px;
+    }
+  
+    button {
+      font-size: 16px;
+      padding: 10px;
+    }
+  }
+  
