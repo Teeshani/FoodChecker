@@ -40,13 +40,15 @@ function Login() {
         return handleError("Invalid server response.");
       }
 
-      const { success, message, error, userType, token } = result;
+      const { success, message, error, userType, token, name, email } = result; // Get name & email
       console.log("userType from backend:", userType); // Log the userType
 
-      if (success && token) {
-        handleSuccess(message);
-        localStorage.setItem("token", token);
-        localStorage.setItem("userType", userType); // Store user type
+    if (success && token) {
+      handleSuccess(message);
+      localStorage.setItem("token", token);
+      localStorage.setItem("userType", userType.trim()); // Store user type
+      localStorage.setItem("userName", name); // Store user name
+      localStorage.setItem("userEmail", email); // Store user email
 
         setTimeout(() => {
           if (userType.trim() === "Admin") { // Ensure correct comparison
