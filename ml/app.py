@@ -4,7 +4,7 @@ import numpy as np
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/predict": {"origins": "http://localhost:3000"}})
 
 # Load the model and encoders
 with open('food_checker.pkl', 'rb') as file:
@@ -26,6 +26,7 @@ def predict():
     try:
         input_data = request.json
         print("Received input:", input_data)
+        
 
         # Transform input features safely
         category = le_category.transform([input_data["category"]])[0].astype(int)
@@ -52,7 +53,7 @@ def predict():
         # Construct full image URL
         base_url = "http://127.0.0.1:5000/predict/"
         if not image_url.startswith("http"):
-            image_url = base_url + image_url if image_url else base_url + "0011.jpg"
+            image_url = base_url + image_url if image_url else base_url + "default.jpg"
 
         # Return predictions
         return jsonify({
