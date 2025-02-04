@@ -1,90 +1,114 @@
-/* Styling for the form container */
-div {
-  background-color: white;
-  padding: 20px;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  width: 100%;
-  max-width: 600px;
-  margin: 20px auto;
-  font-family: Arial, sans-serif;
+.form-body {
+  background-image: url(../assets/images/m4.jpg); /* Replace with actual image path */
+  background-size: cover;   /* Ensures the image covers the entire background */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents repeating */
+  
 }
 
-/* Header styling */
-h2 {
+/* Container styling */
+.food-compliance-container {
+  padding: 20px;
+  max-width: 500px;
+  margin: 100px auto;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   text-align: center;
-  color: black;
+}
+
+/* Title styling */
+.food-compliance-title {
   font-size: 24px;
+  font-weight: bold;
+  color: #333;
   margin-bottom: 20px;
 }
 
-/* Label styling */
-label {
+/* Form styling */
+.food-compliance-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group {
+  text-align: left;
+}
+
+.form-label {
   display: block;
   font-size: 16px;
-  color: black;
-  margin-bottom: 8px;
-  margin-top: 15px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #555;
 }
 
-/* Select box styling */
-select {
+.form-select {
   width: 100%;
   padding: 10px;
-  font-size: 16px;
+  font-size: 14px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  margin-bottom: 20px;
-  background-color: #fff;
-  transition: border-color 0.3s;
+  background-color: white;
+  transition: border-color 0.3s ease;
 }
 
-select:focus {
+.form-select:focus {
   border-color: #007bff;
   outline: none;
 }
 
 /* Button styling */
-button {
+.submit-button {
   width: 100%;
   padding: 12px;
-  background-color: #28a745;
+  background-color: #007bff;
   color: white;
-  font-size: 18px;
+  font-size: 16px;
+  font-weight: bold;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+/* Compliance Result Styling */
+.compliance-result {
   margin-top: 20px;
+  padding: 15px;
+  background-color: #e9ecef;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-button:hover {
-  background-color: #218838;
+.result-status, .result-packing, .result-guidelines {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
 }
 
-/* Responsive design */
-@media (max-width: 600px) {
-  .form-container {
-    padding: 15px;
-    margin: 10px;
-  }
-
-  .form-container h2 {
-    font-size: 20px;
-  }
-
-  label {
-    font-size: 14px;
-  }
-
-  select {
-    font-size: 14px;
-    padding: 8px;
-  }
-
-  button {
-    font-size: 16px;
-    padding: 10px;
-  }
+.result-image {
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-top: 10px;
+  border: 0.2rem solid black;
 }
+
+.end-button {
+  background: #dc3545;
+  color: white;
+  padding: 10px 15px;
+  margin-top: 50px;
+}
+
+
+
   

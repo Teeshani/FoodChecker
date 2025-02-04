@@ -3,6 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import connectDB from "./config/dbCon.js";
 import AuthRouter from "./Routes/AuthRouter.js";
+import MLRouter from "./Routes/MLRouter.js";
 
 dotenv.config();
 
@@ -22,6 +23,7 @@ app.get('/ping', (req, res) => {
 });
 
 app.use('/auth', AuthRouter);
+app.use('/ml', MLRouter);
 
 // Server setup
 const PORT = process.env.PORT || 8080;

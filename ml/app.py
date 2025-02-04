@@ -51,16 +51,16 @@ def predict():
         image_url = le_image_url.inverse_transform([image_url_pred])[0]
 
         # Construct full image URL
-        base_url = "http://127.0.0.1:5000/predict/"
-        if not image_url.startswith("http"):
-            image_url = base_url + image_url if image_url else base_url + "default.jpg"
+        # base_url = "http://127.0.0.1:5000/predict/"
+        # if not image_url.startswith("http"):
+        #     image_url = base_url + image_url if image_url else base_url + "default.jpg"
 
         # Return predictions
         return jsonify({
-            "Compliance Status": compliance_status,
-            "Special Packing Required": special_packing_required,
-            "Packing Guidelines": packing_guidelines,
-            "Image URL": image_url
+            "Compliance_Status": compliance_status,
+            "Special_Packing_Required": special_packing_required,
+            "Packing_Guidelines": packing_guidelines,
+            "Image_URL": image_url
         })
 
     except Exception as e:

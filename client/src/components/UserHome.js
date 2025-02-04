@@ -37,12 +37,13 @@ const UserHome = () => {
         <PackingGuidelinesCard />
 
         {/* Buttons */}
-        <button className="start-btn" onClick={() => navigate("/compliance-check")}>
+        <button className="start-btn" onClick={() => navigate("/foodcomplianceform")}>
           Start Compliance Check
         </button>
         <button className="logout-btn" onClick={handleLogout}>
           Logout
         </button>
+
       </div>
     </div>
     
