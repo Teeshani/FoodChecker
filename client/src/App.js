@@ -10,6 +10,7 @@ import Signup from "./components/Signup";
 import UserHome from "./components/UserHome";
 import AdminHome from "./components/AdminHome";
 import FoodComplianceForm from "./components/FoodComplianceForm";
+import PackingGuidelines from "./components/PackingGuidelines";
 
 function App() {
   return (
@@ -24,6 +25,8 @@ function App() {
         <Route path="/userhome" element={<UserHome />} />
         <Route path="/adminhome" element={<AdminHome />} />
         <Route path="/foodcomplianceform" element={<FoodComplianceForm />} />
+        <Route path="/packingguidelines" element={<PackingGuidelines />} />
+        
       </Routes>
     </div>
   );

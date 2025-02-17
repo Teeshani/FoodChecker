@@ -1,11 +1,13 @@
 import React, { useState } from "react";
 import axios from "axios";
+import { useNavigate } from "react-router-dom";
 import './FoodComplianceForm.css';
 import Navbar from './Navbar';
 import Footer from "./Footer";
 
 
 const FoodComplianceForm = () => {
+  const navigate = useNavigate();
   const [formData, setFormData] = useState({
     category: "",
     food_item: "",
@@ -93,10 +95,8 @@ const FoodComplianceForm = () => {
     }
   };
 
-  const handleLogout = () => {
-    localStorage.removeItem("userToken"); // Example: Remove authentication token
-    sessionStorage.clear(); // Clear session data if needed
-    window.location.href = "/"; // Redirect to login page
+  const handleFurtherMore = () => {
+    navigate("/packingguidelines");
   };
   
 
@@ -177,8 +177,7 @@ const FoodComplianceForm = () => {
         </div>
       )}
 
-      {/* Logout Button */}
-      <button className="end-button" onClick={handleLogout}>Logout</button>
+      <button className="end-button" onClick={handleFurtherMore}>Further More</button>
 
     </div>
     

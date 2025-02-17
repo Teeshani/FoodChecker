@@ -58,7 +58,7 @@ const Contact = () => {
             </div>
           <div class="inputBox">
               <span class="fas fa-envelope"></span>
-              <input type="message" placeholder="Enter your message" required/>
+              <input type="text" name="message" placeholder="Enter your message" required/>
             </div>
           <input type="submit" value="contact now" class="btn" />
           </form>

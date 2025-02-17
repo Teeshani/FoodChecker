@@ -1,5 +1,5 @@
 .form-body {
-  background-image: url(../assets/images/m4.jpg); /* Replace with actual image path */
+  background-image: url(../assets/images/form-img.jpg); /* Replace with actual image path */
   background-size: cover;   /* Ensures the image covers the entire background */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents repeating */
@@ -103,7 +103,7 @@
 }
 
 .end-button {
-  background: #dc3545;
+  background: #28a745;
   color: white;
   padding: 10px 15px;
   margin-top: 50px;
