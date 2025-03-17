@@ -1,5 +1,6 @@
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
+const nodemailer = require("nodemailer");
 const UserModel = require("../Models/User");
 
 
@@ -68,8 +69,70 @@ const login = async (req, res) => {
     }
 }
 
+// Forgot Password Function
+const forgotPassword = async (req, res) => {
+    try {
+      const { email } = req.body;
+      const user = await UserModel.findOne({ email });
+  
+      if (!user) {
+        return res.status(404).json({ success: false, message: "User not found" });
+      }
+  
+      // Generate a reset token (valid for 1 hour)
+      const resetToken = jwt.sign({ email }, process.env.JWT_SECRET, { expiresIn: "1h" });
+  
+      // Create nodemailer transporter
+      const transporter = nodemailer.createTransport({
+        service: "gmail",
+        auth: { user: process.env.EMAIL, pass: process.env.EMAIL_PASSWORD },
+      });
+  
+      // Email content
+      const mailOptions = {
+        from: process.env.EMAIL,
+        to: email,
+        subject: "Password Reset Request",
+        html: `<p>Click <a href="http://localhost:3000/reset-password/${resetToken}">here</a> to reset your password.</p>`,
+      };
+  
+      await transporter.sendMail(mailOptions);
+  
+      res.json({ success: true, message: "Password reset link sent to your email" });
+    } catch (error) {
+      res.status(500).json({ success: false, message: "Error sending email" });
+    }
+  };
+  
+  // Reset Password Function
+  const resetPassword = async (req, res) => {
+    try {
+      const { token } = req.params;
+      const { newPassword } = req.body;
+  
+      // Verify token
+      const decoded = jwt.verify(token, process.env.JWT_SECRET);
+      const user = await UserModel.findOne({ email: decoded.email });
+  
+      if (!user) {
+        return res.status(404).json({ success: false, message: "User not found" });
+      }
+  
+      // Hash the new password and update
+      const hashedPassword = await bcrypt.hash(newPassword, 10);
+      user.password = hashedPassword;
+      await user.save();
+  
+      res.json({ success: true, message: "Password reset successfully" });
+    } catch (error) {
+      res.status(400).json({ success: false, message: "Invalid or expired token" });
+    }
+  };
+
 
 module.exports = {
     signup,
-    login
+    login,
+    forgotPassword,
+    resetPassword,
 }

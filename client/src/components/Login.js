@@ -26,7 +26,7 @@ function Login() {
     }
 
     try {
-      const url = `http://localhost:8080/auth/login`;
+      const url = 'http://localhost:8080/auth/login';
       const response = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -90,6 +90,11 @@ function Login() {
               placeholder="Enter your password..."
               value={loginInfo.password}
             />
+          </div>
+
+          {/* Add Forgot Password Link */}
+          <div className="forgot-password">
+            <Link to="/forgot-password">Forgot Password?</Link>
           </div>
 
           <button type="submit">Login</button>

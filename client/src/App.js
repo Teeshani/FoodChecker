@@ -11,6 +11,8 @@ import UserHome from "./components/UserHome";
 import AdminHome from "./components/AdminHome";
 import FoodComplianceForm from "./components/FoodComplianceForm";
 import PackingGuidelines from "./components/PackingGuidelines";
+import ForgotPassword from "./components/ForgotPassword";
+import ResetPassword from "./components/ResetPassword";
 
 function App() {
   return (
@@ -26,6 +28,8 @@ function App() {
         <Route path="/adminhome" element={<AdminHome />} />
         <Route path="/foodcomplianceform" element={<FoodComplianceForm />} />
         <Route path="/packingguidelines" element={<PackingGuidelines />} />
+        <Route path="/forgot-password" element={<ForgotPassword />} />
+        <Route path="/reset-password/:token" element={<ResetPassword />} /> 
         
       </Routes>
     </div>
