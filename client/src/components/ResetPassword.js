@@ -2,6 +2,9 @@ import React, { useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import axios from "axios";
 import "./ResetPassword.css";
+import Navbar from './Navbar';
+import resetImg from "../assets/images/reset-img.jpg"
+import Footer from './Footer';
 
 const ResetPassword = () => {
   const { token } = useParams(); // Get token from URL
@@ -50,48 +53,49 @@ const ResetPassword = () => {
   };
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gradient-to-r from-blue-400 to-purple-500 p-4">
-      <div className="bg-white shadow-lg rounded-lg p-6 md:p-8 w-full max-w-md">
-        <h2 className="text-2xl font-bold text-center text-gray-800 mb-4">
-          Reset Your Password
-        </h2>
-
-        {message && <p className="text-green-600 text-center font-medium">{message}</p>}
-        {error && <p className="text-red-500 text-center font-medium">{error}</p>}
-
-        <form onSubmit={handleSubmit} className="space-y-4">
+    <>
+        <Navbar />
+    <div className="ResetPassword-wrapper">
+      <div className="ResetPassword-box">
+        <h2 className="ResetPassword-title">Reset Your Password</h2>
+  
+        {message && <p className="success">{message}</p>}
+        {error && <p className="error">{error}</p>}
+  
+        <form onSubmit={handleSubmit} className="ResetPassword-form">
           <div>
-            <label className="block text-gray-700 font-medium">New Password</label>
+            <label className="ResetPassword-label">New Password</label>
             <input
               type="password"
-              className="w-full mt-1 px-3 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400 focus:outline-none"
+              className="input"
               value={newPassword}
               onChange={(e) => setNewPassword(e.target.value)}
               required
             />
           </div>
-
+  
           <div>
-            <label className="block text-gray-700 font-medium">Confirm Password</label>
+            <label className="ResetPassword-label">Confirm Password</label>
             <input
               type="password"
-              className="w-full mt-1 px-3 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400 focus:outline-none"
+              className="input"
               value={confirmPassword}
               onChange={(e) => setConfirmPassword(e.target.value)}
               required
             />
           </div>
-
-          <button
-            type="submit"
-            className="w-full bg-blue-500 text-white py-2 rounded-lg font-medium hover:bg-blue-600 transition duration-300"
-          >
+  
+          <button type="submit" className="ResetPassword-btn">
             Reset Password
           </button>
         </form>
       </div>
+      <img src={resetImg} alt="Reset Password" className="ResetPassword-img" />
     </div>
+    <Footer />
+    </>
   );
+  
 };
 
 export default ResetPassword;

@@ -74,6 +74,24 @@ label {
   font-style: italic;
 }
 
+.forgot-password {
+  font-size: 15px; /* Increase text size */
+  font-weight: bold; /* Make it bold for better visibility */
+  text-align: left; /* Center it if needed */
+  margin-top: 10px; /* Add spacing from other elements */
+}
+
+.forgot-password a {
+  color: rgb(87, 85, 85); /* Adjust color if needed */
+  text-decoration: none; /* Remove underline */
+  transition: color 0.3s ease; /* Smooth hover effect */
+}
+
+.forgot-password a:hover {
+  color: black; /* Darker shade on hover */
+}
+
+
 button {
   background-color: #ffc107;
   border: none;
