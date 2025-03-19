@@ -1,4 +1,5 @@
 import React, { useRef, useState } from 'react';
+import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
 import Hero from './Hero';
 import './Review.css';
@@ -11,7 +12,7 @@ import user_3 from '../assets/images/user-3.jpg';
 import user_4 from '../assets/images/user-4.jpg';
 import Footer from './Footer';
 
-const Review = () => {
+const ReviewPage = () => {
   const sliderRef = useRef();
   const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -59,9 +60,9 @@ const Review = () => {
       <Navbar />
       <Hero cName="hero-mid" heroImg={ReviewImg} title="Reviews" />
       <div className="topic">
-      <h1>What Our Travelers Say</h1>
+        <h1>What Our Travelers Say</h1>
       </div>
-      
+
       <div className="testimonials">
         <img src={back_icon} alt="Back" className="back-btn" onClick={slideBackward} />
         <div className="slider" ref={sliderRef}>
@@ -79,9 +80,17 @@ const Review = () => {
         </div>
         <img src={next_icon} alt="Next" className="next-btn" onClick={slideForward} />
       </div>
+
+      {/* Button to go to the Feedback Submission page */}
+      <div className="add-feedback-btn">
+        <Link to="/feedback">
+          <button>Add Your Feedback Here</button>
+        </Link>
+      </div>
+
       <Footer />
     </>
   );
 };
 
-export default Review;
+export default ReviewPage;

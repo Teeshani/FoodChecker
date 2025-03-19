@@ -56,6 +56,7 @@ const ResetPassword = () => {
     <>
         <Navbar />
     <div className="ResetPassword-wrapper">
+    <img src={resetImg} alt="Reset Password" className="ResetPassword-img" />
       <div className="ResetPassword-box">
         <h2 className="ResetPassword-title">Reset Your Password</h2>
   
@@ -90,7 +91,7 @@ const ResetPassword = () => {
           </button>
         </form>
       </div>
-      <img src={resetImg} alt="Reset Password" className="ResetPassword-img" />
+      
     </div>
     <Footer />
     </>

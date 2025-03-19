@@ -3,8 +3,6 @@ const jwt = require('jsonwebtoken');
 const nodemailer = require("nodemailer");
 const UserModel = require("../Models/User");
 
-
-
 const signup = async (req, res) => {
     try {
         console.log("Request Body:", req.body);
