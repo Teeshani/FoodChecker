@@ -167,7 +167,7 @@ const AdminHome = () => {
       {/* Link to Feedback Management Page */}
       <div>
         <Link to="/feedbackManagement">
-          <button>Manage Feedbacks</button>
+          <button className="second-button">Manage Feedbacks</button>
         </Link>
       </div>
     </div>

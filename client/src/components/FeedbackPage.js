@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './FeedbackPage.css';
 import { Link } from 'react-router-dom';
-
+import Navbar from './Navbar';
+import Footer from './Footer';
 
 const FeedbackPage = () => {
   const [name, setName] = useState('');
@@ -42,8 +43,10 @@ const FeedbackPage = () => {
   };
 
   return (
+    <>
+      <Navbar />
     <div className="feedback-page-container">
-      <h2 className="feedback-page-title">Submit Your Feedback</h2>
+      <h2 className="feedback-page-title-1">Submit Your Feedback</h2>
       <form className="feedback-page-form" onSubmit={handleSubmit}>
         <input
           className="feedback-page-input"
@@ -63,7 +66,7 @@ const FeedbackPage = () => {
         <button className="feedback-page-submit" type="submit">Submit</button>
       </form>
 
-      <h2 className="feedback-page-title">User Feedback</h2>
+      <h2 className="feedback-page-title-2">User Feedbacks</h2>
       <ul className="feedback-page-list">
         {feedbacks.length > 0 ? (
           feedbacks.map((feedback) => (
@@ -79,12 +82,12 @@ const FeedbackPage = () => {
       {/* Link to Feedback Management Page */}
       <div>
         <Link to="/">
-          <button>Logout</button>
+        <button className="feedback-page-logout">Logout</button>
         </Link>
-      </div>
-
-      
+      </div>      
     </div>
+    <Footer />
+    </>
   );
 };
 

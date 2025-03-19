@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import './FeedbackManagement.css';
+import Navbar from './Navbar';
+import Footer from './Footer';
 
 const FeedbackManagement = () => {
   const [feedbacks, setFeedbacks] = useState([]);
@@ -38,6 +40,8 @@ const FeedbackManagement = () => {
   };
 
   return (
+    <>
+      <Navbar />
     <div className="feedback-management-container">
       <h2>Manage User Feedbacks</h2>
 
@@ -69,6 +73,8 @@ const FeedbackManagement = () => {
         </tbody>
       </table>
     </div>
+    <Footer />
+    </>
   );
 };
 
