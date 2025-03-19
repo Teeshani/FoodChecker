@@ -1,0 +1,89 @@
+/* Feedback Page Styles */
+.feedback-page-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feedback-page-title {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .feedback-page-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .feedback-page-input, .feedback-page-textarea {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .feedback-page-input:focus, .feedback-page-textarea:focus {
+    outline: none;
+    border-color: #4CAF50;
+  }
+  
+  .feedback-page-submit {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .feedback-page-submit:hover {
+    background-color: #45a049;
+  }
+  
+  .feedback-page-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .feedback-page-item {
+    background-color: #fff;
+    padding: 12px;
+    margin-bottom: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .feedback-page-name {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .feedback-page-no-feedback {
+    color: #666;
+    text-align: center;
+  }
+  
+  @media (max-width: 600px) {
+    .feedback-page-container {
+      padding: 15px;
+    }
+  
+    .feedback-page-input, .feedback-page-textarea {
+      font-size: 14px;
+    }
+  
+    .feedback-page-submit {
+      font-size: 14px;
+    }
+  }
+  

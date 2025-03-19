@@ -13,6 +13,7 @@
 h2 {
   color: #333;
   margin-bottom: 20px;
+  font-size: 30px;
 }
 
 /* Form styling */
@@ -43,6 +44,8 @@ h2 {
   cursor: pointer;
   border-radius: 5px;
   font-size: 16px;
+  width: 25%;
+  margin-left: 25rem;
 }
 
 .user-form button:hover {
@@ -73,6 +76,10 @@ h2 {
 
 .user-list tr:nth-child(even) {
   background: #f2f2f2;
+}
+
+.user-list td {
+  font-size: 1.5rem;
 }
 
 .user-list button {
@@ -125,5 +132,7 @@ h2 {
       font-size: 12px;
       padding: 6px 10px;
   }
+
+  
 }
 

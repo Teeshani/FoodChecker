@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./AdminHome.css";
+import { Link } from 'react-router-dom';
 
 const AdminHome = () => {
   const [users, setUsers] = useState([]);
@@ -162,6 +163,13 @@ const AdminHome = () => {
           )}
         </tbody>
       </table>
+
+      {/* Link to Feedback Management Page */}
+      <div>
+        <Link to="/feedbackManagement">
+          <button>Manage Feedbacks</button>
+        </Link>
+      </div>
     </div>
   );
 };

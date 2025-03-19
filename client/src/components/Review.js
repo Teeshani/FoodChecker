@@ -83,7 +83,7 @@ const ReviewPage = () => {
 
       {/* Button to go to the Feedback Submission page */}
       <div className="add-feedback-btn">
-        <Link to="/feedback">
+        <Link to="/feedbackPage">
           <button>Add Your Feedback Here</button>
         </Link>
       </div>

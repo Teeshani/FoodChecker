@@ -1,0 +1,49 @@
+/* Feedback Management Styles */
+.feedback-management-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .feedback-management-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .feedback-list {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .feedback-list th, .feedback-list td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .feedback-list th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .feedback-list tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .feedback-list tr:hover {
+    background-color: #ddd;
+  }
+  
+  .feedback-list button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .feedback-list button:hover {
+    background-color: #cc0000;
+  }
+  
+  
