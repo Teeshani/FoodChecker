@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import './FeedbackManagement.css';
 import Navbar from './Navbar';
+import { Link } from 'react-router-dom';
 import Footer from './Footer';
 
 const FeedbackManagement = () => {
@@ -72,6 +73,12 @@ const FeedbackManagement = () => {
           )}
         </tbody>
       </table>
+
+      <div>
+              <Link to="/">
+              <button className="feedback-logout">Logout</button>
+              </Link>
+            </div>  
     </div>
     <Footer />
     </>

@@ -18,8 +18,8 @@ const ResetPassword = () => {
     e.preventDefault();
 
     // Validate password
-    if (newPassword.length < 6) {
-      setError("Password must be at least 6 characters long.");
+    if (newPassword.length < 4) {
+      setError("Password must be at least 4 characters long.");
       return;
     }
 

@@ -78,6 +78,10 @@ h2 {
   background: #f2f2f2;
 }
 
+.user-list tr {
+  font-size: 1.5rem;
+}
+
 .user-list td {
   font-size: 1.5rem;
 }
